@@ -1,0 +1,3 @@
+liens: [[HKS]], [[Histoire]]
+
+La loi de 1901 en France régit les associations à but non lucratif. Elle permet à toute personne de créer une association sans autorisation préalable, en rédigeant des statuts et en les déclarant en préfecture. L'association acquiert ainsi la personnalité morale, pouvant contracter et posséder des biens. Elle est administrée par un conseil ou un bureau et peut recevoir des cotisations, subventions, et dons. Les associations peuvent bénéficier d'exonérations fiscales sous certaines conditions. Elles peuvent être dissoutes volontairement ou judiciairement.

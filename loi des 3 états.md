@@ -1,0 +1,7 @@
+liens: [[Sociologie]], [[HKS]]
+
+
+- Selon [[Auguste Comte]], l'intelligence humaine, dans son effort pour expliquer le monde, passe successivement par trois stades ou "états". 
+	- À l'**état théologique** (ou fictif), la pensée explique les phénomènes naturels par l'action volontaire d'êtres surnaturels. La tempête, par exemple, sera expliquée par un caprice d'Éole, le dieu des vents. Cet état évolue du fétichisme au polythéisme, et du polythéisme au monothéisme. 
+	- À l'**état métaphysique** (ou abstrait), les dieux sont remplacés par des forces abstraites, comme "l'horreur du vide", longtemps attribuée à la nature. On expliquera par exemple la tempête par la "vertu dynamique" de l'air. Cet état est au fond aussi anthropomorphique que le premier : l'homme projette spontanément sa propre psychologie sur la nature. 
+	- L'**état positif** (ou scientifique) est celui où l'esprit renonce à chercher les fins dernières et à répondre aux ultimes "pourquoi". À la notion de cause (transposition abusive de notre expérience intérieure du vouloir sur la nature), il substitue la notion de loi. On se contentera de décrire comment les faits se déroulent, de découvrir les lois (exprimables en langage mathématique) selon lesquelles les phénomènes s'enchaînent les uns aux autres.

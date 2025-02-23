@@ -1,0 +1,3 @@
+liens: [[politique]]
+
+Le bonapartisme est un courant politique visant à **rétablir l'ordre impérial** en France avec, à la tête de celui-ci, un membre de la **famille Bonaparte** s'inspirant bien sur des actions des empereurs **Napoléon Ier** et **Napoléon III**. Au sens large, ce régime viserait à établir un Etat national à **exécutif fort** et centralisé mais d'**essence républicaine** consultant fréquemment l'**avis du peuple par le biais de plébiscites**.

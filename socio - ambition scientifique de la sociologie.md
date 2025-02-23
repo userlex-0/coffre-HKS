@@ -1,0 +1,6 @@
+liens: [[Sociologie]], [[HKS]]
+
+Le sociologue cherche donc à comprendre la société en suivant une discipline scientifique : ce qu’il découvre et note sur les phénomènes sociaux qu’il étudie se situe dans un cadre de référence assez rigoureusement défini. Un des traits de ce cadre est que les opérations s’y déroulent selon certaines règles. Comme scientifique, le sociologue s’efforce d’être objectif, de contrôler ses préférences et ses préjugés personnels, de percevoir clairement plutôt que de juger normativement. Bien entendu, cette contrainte ne touche pas son existence entière, mais se limite à ce qu’il fait en tant que sociologue. Il ne prétend pas non plus que son cadre de référence soit le seul qui permette de considérer la société. D’ailleurs, très peu de savants, toutes disciplines confondues, prétendraient aujourd’hui que le seul regard digne d’être porté sur le monde soit le regard scientifique. Le botaniste qui observe une jonquille n’a aucune raison de disputer au poète le droit de voir le même objet de manière très différente. Il existe des jeux de toutes sortes. Il ne s’agit pas de nier la validité de ceux des autres mais d’être clair sur les règles de son propre jeu.
+
+***Peter L.Berger**, Invitation à la sociologie, La découverte, 2006*
+

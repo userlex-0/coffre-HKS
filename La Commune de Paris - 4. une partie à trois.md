@@ -1,0 +1,26 @@
+liens : [[La fièvre hexagonale - Michel Winock]], [[La Commune de Paris]], [[politique]], [[Histoire]]
+
+- #### Les 3 principaux blocs
+	- **bloc versaillais :** 
+		- est la majorité conservatrice de l'assemblée nationale avec une minoritée républicaine (<mark style="background: #ADCCFFA6;">Jules Favres, Jules Simon, Jules Ferry, Ernest Picard</mark> hommes du "4 septembre"), <mark style="background: #ADCCFFA6;">A. Thiers</mark> chef de l'éxecutif de la République française cherche avant tout à "soumettre paris"
+	- **la commune de paris :** 
+		- soutenu par les révolutionnaires, par des républicains patriotes révoltés contre les actes de l'assemblée de versailles
+	- **le tiers parti :** 
+		- Défend la république mais soucieux de légalité et de paix civile. Groupe le + important malgré l'ombre qui lui fait la double intransigeance, majoritairement dans les grandes villes de province. les grands acteurs de ce bloc sont <mark style="background: #ADCCFFA6;">Gambetta, V Hugo, G Clémenceau</mark> (qui a quitter l'assemblée le 27 mars apres le résultat des muncipales). 
+- le centre de gravité politique n'est pas la cdp mais le **tiers parti (dans lequel figure <mark style="background: #ADCCFFA6;">Clémenceau</mark>, <mark style="background: #ADCCFFA6;">Gambetta</mark>, <mark style="background: #ADCCFFA6;">V. Hugo</mark>)** qui dominent le mvt républicain de province
+- car : 
+	- **paris : 75%** des gn issus de quariters d'ouvriers
+	- **lyon, marseille** : cette origine **chute à 25%**
+	- autre villes : baisse encore
+- Le ==5 avril== certains membres (<mark class="hltr-blue">Clemenceau</mark>, <mark class="hltr-blue">Lockroy</mark>, <mark class="hltr-blue">Ranc</mark>, <mark class="hltr-blue">Floquet</mark>) de ce **tiers parti** forme la <mark style="background: #BBFABBA6;">Ligue de l'union républicaine pour les droits de Paris</mark> 
+- de multiples organisations proposent des programmes de conciliation tandis que l'assemblée versaillaise portée par A Thiers conserve son intransigeance toute comme la cdp
+- le **tiers parti donne le ton dans les villes de province** porté par un <mark class="hltr-green">compromis gambettiste</mark> selon <mark class="hltr-blue">Jeanne Gaillard</mark>
+- le tiers parti multiplie ces appels / demarche pour ramener la paix civile 
+- **le *Temps* a été un journal porte-parole** de ce parti d'entre-deux qui condamnait a la fois les Versailles qui fait fusiller des prisonniers de guerre et la Commune qui réplique par la loi des otages
+	- le *Temps* : "seule la conciliation peut sauvegader ce qu'il y a de raisonnable dans le programme de la Commune"
+- **Q** le tiers parti avait-il une solution ?
+	- (<mark class="hltr-blue">Gambetta</mark>) "déclarer la République institution définitive, faire une loi électorale, dissoudre l'Assemblée en indiquant à la nouvelle Chambre le programme qu'elle devra suivre"
+	- **il propose donc le recours général aux urnes**
+	- **car** bonne façon, selon lui, d'exorciser la peur et de localiser le conflit plutot que sur un champ de bataille
+	- **car** redonnera à la France un gouvernement + représentatif que celui élu (le ==26 mars et le 16 avril==) avec un taux d'abstention gigantesque 
+- (origine) l'assemblée de versailles ont voté rapidement un traité de paix avec l'ennemi sans envisager la moindre résistance, ils ont refusé la moindre concession à la population parisienne 

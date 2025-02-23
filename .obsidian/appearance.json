@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Atom",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "moonstone",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Calibri",
+  "textFontFamily": "",
+  "baseFontSize": 16,
+  "translucency": false,
+  "showRibbon": false
+}

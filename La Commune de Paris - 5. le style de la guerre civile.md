@@ -1,0 +1,49 @@
+liens : [[La fièvre hexagonale - Michel Winock]], [[La Commune de Paris]], [[politique]], [[Histoire]]
+
+- BUT apparent : briser la volonté politique de l'adversaire
+- la guerre civile de 1871 **nourrie par une triple haine**
+	- haine **politique**
+	- haine **de religion**
+	- haine **de classe**
+- cette révolution s'est grandement jouée sur le champ symbolique (jusqu'à la *semaine sanglante ==21-28 mai 1871==) 
+- guerre civile est une véritable **"GUERRE DES SYMBOLES**"
+- ==16 mai 1871== démolition de la colonne vendôme 
+- ==5 avril== la Commune vote le décret sur les otages (déclarant l'exécution de 3 otages pour 1 communard tué)
+- **tournant vers guerre de religion**
+	- on identifie une très claire séparation
+		- Versaillais : dominés par des royalistes pénétrés d'un catholicisme parfois "libéral" et le plus souvent intransigeant
+		- Communeux : marqués d'un athéisme "de combat"
+- ### Anticléricalisme
+	- mouvement croissant des communeux (on parle aussi d'une **"passion anticléricale"**) 
+	- parodies de cultes
+	- irrespect des objets sacrés etc..
+	- <mark class="hltr-blue">Jean Allemane</mark>, président du comité de légion du Ve arrondissement, fait remplacer la croix du panthéon par un drapeau rouge
+	- violence verbale et symbolique de forte intensité 
+	- **Q** origine ?
+		- **ORIGINE SOCIALE :** influence de l'Eglise exercée presque partout sur le tissu social (écoles, charité, hôpitaux, prisons etc..)
+		- **ORIGINE POLITIQUE :** symbole représentant les riches et les maîtres, faisant écho aux versaillais 
+		- **ORIGINE PHILOSOPHIQUE :** remise en question de la religion comme officiel garant de l'ordre et des inégalités sociales 
+		- **donc** volonté de détacher l'Eglise du champ social/politique/institutionnel de la france
+		- **R** cet anticléricalisme a des origines : **sociale**, **politique** et **philosophique** 
+	- Le républicanisme était souvent considéré comme le **corollaire** de l'anticléricalisme
+	- *Etienne Vacherot* alla jusqu'à dire en 1859 : 
+		- "Le catholicisme et le despotisme sont frères" il parle d'"incompatibilité radicale du catholicisme et de la démocratie"
+- Le ==2 avril 1871== décret de la Commune applicant le ***Programme de Belleville* par L. Gambetta (datant de 1869)** revendiquant
+	- la suppression du budget des Cultes
+	- la séparation des Eglises et de l'Etat
+- Anticléricalisation devient réelle **guerre de religion**  (des prêtres sont fusillés par les communards) la **France est profondément divisée par la question religieuse**
+- la haine de classe et la haine de religion sont alors étroitement liées
+- ### La Semaine Sanglante
+	- a eu lieu du ==21 au 28 mai 1871== et résume l'atrocité de la guerre civile de 1871.
+	- le 24 mai, le blanquiste Ferré donne l'ordre d'exécution de : 
+		- l'archevêque de Paris
+		- l'abbé Deguerry
+		- un président de la Cour de cassation, Bonjean
+		- ainsi que 3 jésuites
+	- ils seront tous sont fusillés
+		- les jours qui suivent, les exécutions s'enchainent (une trentaine de gardiens de la paix, une dizaine de prêtres)
+	- les communeux auront effectués un peu moins de 100 exécutions
+	- En "réponse", l'armée de Thiers (nouvellement reconstituée avec l'aide de Bismarck) procède à un **massacre**.
+		- une **vingtaine de milliers d'hommes, de femmes et d'enfants sont tués**
+		- ceux qui échappent à la mort sont généralement jugés puis envoyé au bagne de la **Nouvelle-Calédonie** (dont [[Louise Michel]])
+- le rapport du général Appert qui dénombre les procès consécutifs à la Commune dénombre plus de 38 000 personnes arrêtées et jugées (37 000 hommes, 1000 femmes et 615 enfants de moins de 16 ans) 

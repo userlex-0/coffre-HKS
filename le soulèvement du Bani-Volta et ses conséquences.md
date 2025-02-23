@@ -1,0 +1,25 @@
+liens: [[HKS]], [[Histoire]], [[H.CH9.II - La transformation de la guerre en guerre totale (1915-1917)]]
+
+- Révolte du Bani-Volta : qualifiée de "dernière guerre de la pacification" ou annonciatrice des révoltes anticoloniales.
+- Population touchée : 800 à 900 000 personnes, 1 000 villages, 8% de la population de l’AOF.
+- Région marquée par les États précoloniaux du Macina et du royaume Mossi.
+- Conquête française tardive en 1898, faible résistance initiale.
+- Région peu occupée, zones rurales animistes restées à l’écart.
+- Demande soudaine de "force noire" en 1915, brutalement accueillie.
+- Ligue de villages autour de Bona et de son autel animiste se soulève contre les Français.
+- Révolte s’étend jusqu’à Ouagadougou et Bandiagara.
+- Sorciers-guérisseurs animistes rallient les musulmans, administration évoque un "complot des marabouts".
+- Musulmans critiquent l’encadrement français de l’islam et certaines pratiques maraboutiques.
+- Révolte multiethnique et multiconfessionnelle.
+- Gouverneur Joost Van Vollenhoven surpris par la "guerre populaire, presque nationale".
+- Secteur du Dédougou aligne 15 à 20 000 hommes armés de mousquets et de fusils locaux.
+- Villages fortifiés, femmes reconstruisent les forteresses.
+- Gouverneur rassemble forces disponibles, deux colonnes de 5 000 hommes avec canons et mitrailleuses.
+- Première colonne en février-mars 1916, seconde en avril 1916 détruit les foyers de résistance.
+- Révolte se reporte vers le Bani, cesse en février 1917.
+- Répression et destructions causent la mort de près de 30 000 personnes.
+- Gouverneur Van Vollenhoven demande l’arrêt des recrutements en 1917, démissionne après conflit avec Clemenceau.
+- Remplacé par Blaise Diagne, commissaire de la République pour le recrutement.
+- Diagne organise une campagne de recrutement de 6 mois en 1918, tournée de propagande pour la métropole.
+- Levée de 63 000 Africains supplémentaires, promesse de citoyenneté française.
+- Fin 1918, armée coloniale aligne 96 bataillons indigènes.

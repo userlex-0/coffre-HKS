@@ -1,0 +1,33 @@
+liens: [[La fièvre hexagonale - Michel Winock]], [[Le boulangisme]], [[Histoire]], [[politique]]
+
+- depuis la défaite des monarchistes en 1877 les républicains "opportunistes" dominent la chambre, désormais, la double opposition de la **droite royaliste et de la gauche intransigeante** cause leur échec aux législatives de 1885
+- il y a donc rupture de la majorité républicaine
+- la cause principal de la défaite des opportunistes tient principalement au nouveau mode de scrutin : le scrutin de liste départemental majoritaire à deux tours
+- la **chute du cabinet de Ferry du 30 mars** a laissé des traces profondes : **la droite conservatrices retrouve l'efficacité dans l'union**
+	- 18 députés **ferrystes**
+	- 124 **républicains**
+	- 176 **conservateurs**
+- le nb des suffrages conservateurs a doublé depuis 1881
+- **Cependant** au second tour : surreprésentation des extrêmes et tassement des voix de droite, les radicaux et les opportunistes n'avait appliqué la "discipline républicaine" pour faire barrage à la droite
+- au second tour c'est donc l'effondrement des espoirs conservateurs en obtenant que 26 sièges contre 241 gagnés par leur adversaire et 144 aux radicaux
+- la plus claire des conséquence est la division de la Chambre en 3 groupes principaux (droite conservatrice, républicains, radicaux de gauche)
+- le radical Floquet est élu président de la Chambre
+- la double opposition emperchera à l'opportuniste Spuller de devenir vice-président
+- la République modérée représente alors une conjonction des centres
+- ==janvier 1886== général boulanger devient ministre de la Guerre avec le soutient de Clémenceau
+- a partir du renversement du cabinet de Ferry, la durée moyenne des ministère est fortement réduite
+- **Affaire Wilson** (==septembre 1887==):
+	- Daniel Wilson, gendre du président de la République Jules Grévy, se livre à un traffic de légions d'honneurs : il distribue très généreusement des médailles de guerre et légions d'honneur.
+	- cette polémique provoquera la démission de Jules Grévy
+- Après la **crise ministérielle**, c'est la **crise présidentielle**
+- Clémenceau fera élire <mark class="hltr-blue">Sadi Carnot</mark>
+- ces crises nourrissent de + en + le mépris du parlementarisme  dans tous les milieux ce qui fera aussi grandir la figure du général Boulanger
+- Seuls "gros patrons, bourgeois et financiers opulents" profitent du gouvernement de Jules Ferry, "pour eux tout est pour le mieux dans le meilleur des mondes"
+- **Fond de la crise :**
+	- antiparlementarisme
+	- protestation patriotique
+	- révolte sociale
+	- rancune des monarchistes
+	- refus catholique
+	- projets de revanche d'une droite requinquée par les élections de 1885
+- **Georges Boulanger** va être l'homme, devenu brusquement populaire, qui **sera l'instrument de l'agitation, en une seule tempête, toutes les colères diffuses contre le régime en place**

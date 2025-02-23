@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#hub",
+      "color": {
+        "a": 1,
+        "rgb": 13978957
+      }
+    },
+    {
+      "query": "content:\"[[HKS]]\"",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.52049012933969,
+  "lineSizeMultiplier": 1.70847515316542,
+  "collapse-forces": false,
+  "centerStrength": 0.471842447916667,
+  "repelStrength": 13.5701497395833,
+  "linkStrength": 0.560819803034336,
+  "linkDistance": 276,
+  "scale": 0.34120954170111767,
+  "close": true
+}

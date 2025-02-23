@@ -1,0 +1,23 @@
+{
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "readableLineLength": true,
+  "promptDelete": true,
+  "spellcheck": false,
+  "showUnsupportedFiles": false,
+  "rightToLeft": false,
+  "strictLineBreaks": false,
+  "attachmentFolderPath": "media",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "non classées",
+  "foldHeading": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 69
+  }
+}

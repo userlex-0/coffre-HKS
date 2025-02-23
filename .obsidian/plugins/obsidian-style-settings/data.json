@@ -1,0 +1,8 @@
+{
+  "obsidian-chameleon-theme@@color-schemes-light": "color-scheme-horizon-bright",
+  "obsidian-chameleon-theme@@color-schemes-dark": "color-scheme-nord",
+  "typomagical-text@@body-ligatures": false,
+  "typomagical-text@@mjx-font": "mathjax-font-default",
+  "typomagical-colour@@background-color-enable": true,
+  "typomagical-colour@@ss-background-color": "#F3F3F2"
+}

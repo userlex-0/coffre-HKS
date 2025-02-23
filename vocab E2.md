@@ -1,0 +1,23 @@
+liens: [[HKS]], [[E2 Anglais]]
+
+- to sever ties / to cut links
+- to obey the ..
+- a pillar / kingpin / cornerstone 
+- **bedwork** : *travail de base/ les fondations*
+- **worship** : *le culte*
+- **heresy** : hérésie
+- **schism** : separation (not necessarily religious)
+- **vernacular** (language) : _Vernacular_ is the ordinary, informal, spoken form of language
+- **heir** : *heritier(ère)*
+- **sham** : faux
+- *changement* : change, ~~changement~~
+- **wrath** : colère
+- ***the Spaniards* :** Spanish people
+- **pilgrim :** pèlerin
+- **pilgrimage** : pèlerinage
+- **laudatory :** élogieux 
+- **prior to** : before
+- **soil** : terre/sol
+- **seal/stamp :** sceau
+- **simile :** comparaison
+- **fallacy :** failure in reasoning which renders an argument invalid

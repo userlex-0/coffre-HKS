@@ -1,0 +1,31 @@
+liens: [[La fièvre hexagonale - Michel Winock]], [[Le boulangisme]], [[Histoire]], [[politique]]
+
+- Le **30 mai 1887, Maurice Rouvier**, ancien ministre du Commerce de Gambetta et Ferry, forme un nouveau cabinet d'où il **exclut le trop populaire général**.
+- Boulanger n'est donc plus éligible
+- il conserve tout de même 12% des votants au cours d'une élection partielle 
+- le mvt boulangiste est dès lors parti dans ce Paris républicain, sensibilisé par les diatribes de Rochefort et les "coups de trompettes" de Déroulède
+- **La presse** aura un rôle important dans la crise une fois la loi de la liberté de presse votée en 1881
+- les journaux se multiplient et se divisent au coeur de cette **crise d'opinion**
+- les fervents du général Boulanger écrivent alors dans la **presse d'extrême gauche**
+	- *la Justice* de Clémenceau (même si celui-ci s'inquiète du succès de Boulanger)
+	- *le Mot d'ordre*
+	- l'*Evenement*
+	- *le Cri du peuple*
+	- *l'Intransigeant*
+- et ses adversaires, **la presse opportuniste ou conservatrice**
+	- *l'Autorité*
+	- *la République française*
+	- *le Figaro*
+	- *le Temps*
+	- *la Gazette de France*
+- Déroulède se convertira au boulangisme, il **ne croit plus capable la République opportuniste d'assumer la revanche**, ce sera le prétexte de bcp qui se joigne au mvt boulangiste
+- les deux branches du royalisme sont désormais réconciliées ce qui laisse un unique prétendant pour le trône : **le comte de Paris**
+- Des rumeurs courent au sujet de Boulanger qui detournerait des fonds, ne payant pas de dividendes sur les sommes qu'il touche
+- **Fort machiavelisme** (au sens premier du terme) de Boulanger se fait sentir
+- Georges Thiébaud (jeune nournaliste bonapartiste) une communcation et une proposition de "coup d'Etat" avec le prince napoléon 
+- alors que Dillon laissait deja miroiter la restauration par Boulanger, Thiébaud de son côté berçait d'illusions l'espoir du prince Napoléon
+- Boulanger proclama : "Je ne ferai jamais, quoiqu'il arrive, de persécutions religieuse" après cette délcaration, **grand nombre de partisans de l'Eglise suivra son mvt**
+- Boulanger décriva son programme très simpliste en trois mots
+	- **Dissolution**
+	- **Révision**
+	- **Constituante**

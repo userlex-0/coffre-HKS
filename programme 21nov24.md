@@ -1,0 +1,13 @@
+
+- laverie
+- ficher humanisme (commencer)
+- laverie
+- quizlet figures de style
+- humanisme
+- vaisselle
+- figure de style
+- (versification)
+- ficher socio
+- ficher histoire
+- ficher philo
+- (un peu des trois)

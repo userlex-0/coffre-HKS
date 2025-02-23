@@ -1,0 +1,30 @@
+liens: [[La fièvre hexagonale - Michel Winock]], [[Le boulangisme]], [[Histoire]], [[politique]]
+
+- Pour se rendre compte de l'ampleur de Boulanger, lors des législatives partielles en février 1888, Boulanger (ni candidat, ni éligible) recueille en tout 55 000 voix
+- jugé trop dangereux, le ==17 mars 1888== le président <mark class="hltr-blue">Sadi Carnot</mark> **signe un décret de mise en non-activité du général**, il n'est donc plus ministre de la guerre 
+- Boulanger continue néanmoins à récolter un grand nombre de voix aussi bien de droite que de gauche
+- <mark class="hltr-blue">Thiébaud</mark>  avait mis en place sa stratégie du parti boulagiste : utiliser toutes les élections partielles, et même simultanément puisque les candidatures multiples étaient autorisées, pour propager le mvt plébiscitaire 
+- le ==8 avril==, Boulanger est ainsi **élu député de la Dordogne**, il se **représente dans le Nord** sur le même mot d'ordre : dissolution, révisionet exaltation patriotique, **victoire écrasante** : 173 000 voix contre 85 000
+- le mvt socialiste n'echappe pas a la seduction du boulangisme
+- en aout 1888, boulanger remporte un triple succès dans le Nord, la Somme, la Charente-Inférieure, confirmant le pluralisme de ses partisans
+- une grosse dizaine d'organisations révisionnistes, patriotes, boulangistes concourent à **la propagande en faveur du général**
+- pour parer au danger, opportunistes et radicaux sont obligés de s'entendre sur un représentant commun : conseiller radical président du conseil général de la Seine : **Jacques**
+- les socialistes sont divisés sur la candidature de Boulanger
+- campagne électorale de janvier 1889 baignée dans la propagande dont les méthodes 
+	- affiches
+	- journaux
+	- réunions électorales passionées
+	- vente d'insigne
+- theme de la république de boulanger : **la Révision**
+- élection partielle du 27 janvier 1889 : Boulanger obtient une majorité massive (245 000 contre jacques avec 162 000)
+- Cependant, **le boulangisme ne gagnera pas les élections de septembre**
+	- il doit alors affronter et subir la contre-offensive "républicaine" menée par le nouveau minsitère Tirard au sein duquel **Ernest Constans** va s'employer à "délustrer le héros"
+	- **Boulanger s'enfuit le 1er avril en Belgique**
+- le Sénat jouant le rôle de la Haute Cour de justice jugeait Boulanger, Rochefort et Dillon **pour avoir au cours des années 1886 à 1889 tenter de "détruire" ou "changer" le gouvernement**
+- Le ==8 août==, le **Sénat** (jouant le rôle de la Haute Cour de justice) **accuse Boulanger** d'avoir
+	- **attenté à la sureté de l'Etat**
+	- **détourné des fons publics lorsqu'il était ministre**
+	- **tenter de "détruire" ou "changer" le gouvernement**
+- Une nouvelle loi électorale en réaction : suppression des candidatures multiples (qui était la stratégie utilisée par <mark class="hltr-blue">Thiébaud</mark>) et le retour du scrutin majoritaire uninominal
+- le 22 septembre le parti révisionnsite avouait sa défaite
+- **Boulanger se suicide en 1891** sur la tombe de sa maîtresse 

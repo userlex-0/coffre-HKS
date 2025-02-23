@@ -1,0 +1,81 @@
+{
+  "highlightr-plugin:Red": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "smart-random-note:open-random-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "workspace:goto-tab-2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "zen:toggle": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Key223"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-prozen:zenmode": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "/"
+    }
+  ],
+  "highlightr-plugin:Purple": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ],
+  "highlightr-plugin:Yellow": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "highlightr-plugin:Brown": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "global-search-and-replace:search-and-replace": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ]
+}

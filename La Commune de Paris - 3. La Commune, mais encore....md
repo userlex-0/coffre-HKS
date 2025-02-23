@@ -1,0 +1,29 @@
+ liens : [[La fièvre hexagonale - Michel Winock]], [[La Commune de Paris]], [[politique]], [[Histoire]]
+
+- ces élections du <mark class="hltr-green">26 mars</mark> sont pour certains seulement de donner à Paris le conseil municipal qu'il attend depuis la chute du 2nd empire
+- succès pour le cc lors des elections, c'est la victoire des révolutionnaires
+- fort taux d'abstention (+ de 50%)
+	- majoritairement dans paris ouest (7e, 8e, 9e, 16e)
+	- qui s'oppose massivement à Paris Nord et Est
+- le conseil se proclame "Commune de Paris"
+- élections, pour bcp, absolument non représentatives dû au fort taux d'abstention
+- les conseillers se distinguent approximativement en 3 groupes :
+	- (minorité) internationaux (ouvriers)
+	- socialistes
+	- blanquistes (privés de <mark style="background: #ADCCFFA6;">Blanqui</mark> lui même car arrêté le <mark class="hltr-green">17 mars</mark> puis emprisonné)
+	- républicains de gauche (le reste)
+- élections complémentaires le <mark class="hltr-green">16 avril</mark>, une vingtaine de nouveaux élus (mal élus : taux d'abstention de + de 70%)
+- s'affronte deux tendances : 
+	- (majorité)"jacobino-blanquiste" : partisans d'un comité de salut public 
+	- (minorité)ouvriers internationalistes, hostiles aux penchants autoritaires des "jacobino-blaquiste"
+- La cdp définira clairement le <mark class="hltr-green">19 avril</mark> le contenu de leur révolution la cdp demande :
+	- la reconnaissance et la consolidation de la République
+	- l'autonomie absolue de la Commune
+- Base de la nouvelle organisation est **fédéraliste** avec influence du **proudhonisme**
+- Cette révolution s'affirmait à la fois **POLITIQUE** et **SOCIALE**
+- **désordre** de la démocratie directe et de la décentralisation
+- une majorité devient alors favorable au rétablissement d'un **comité de salut public** réunissant le pouvoir entre quelques mains sous le conseil de la Commune
+- à l'origine la Commune n'était qu'un mouvement patriotique et républicain, l'aveuglement de l'Assemblée de Versailles dénoncé par Zola et Clémenceau provoque un basculement du rapport des forces au bénéfices des révolutionnaires
+- #### SYNT
+	- la guerre civile à renforcé les extrêmes et durci les attitudes
+	- l'affrontement entre cdp et l'Assemblée de Versailles a pris le sens d'une lutte des classes

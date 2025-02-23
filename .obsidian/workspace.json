@@ -1,0 +1,511 @@
+{
+  "main": {
+    "id": "1c3da31fcc29248a",
+    "type": "split",
+    "children": [
+      {
+        "id": "75a0f1b95590271b",
+        "type": "tabs",
+        "dimension": 36.22047244094488,
+        "children": [
+          {
+            "id": "4f68d06ec60d8f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histoire.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Histoire"
+            }
+          },
+          {
+            "id": "6242b1562046ed55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H.CH11 - La France des années 1920 ; deuil insurmontable de la guerre ou « années folles » ?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H.CH11 - La France des années 1920 ; deuil insurmontable de la guerre ou « années folles » ?"
+            }
+          },
+          {
+            "id": "1c362d0fb1d3e27b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H.CH10 - La Grande Guerre (1914-1918) 2 sur 2 ; de la mobilisation totale à la victoire finale (1917-1919).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H.CH10 - La Grande Guerre (1914-1918) 2 sur 2 ; de la mobilisation totale à la victoire finale (1917-1919)"
+            }
+          },
+          {
+            "id": "f8847673b1f689b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H.CH8 - La France de la Belle Epoque (3 sur 3) ; la société française de « 1900 » (années 1890-1914).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H.CH8 - La France de la Belle Epoque (3 sur 3) ; la société française de « 1900 » (années 1890-1914)"
+            }
+          },
+          {
+            "id": "01b44bd822f43189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H.CH7 - La France de la Belle Époque (2 sur 3) ; la France coloniale dans la compétition impérialiste (1898-1913).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H.CH7 - La France de la Belle Époque (2 sur 3) ; la France coloniale dans la compétition impérialiste (1898-1913)"
+            }
+          },
+          {
+            "id": "b95e663bd5a365bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H.CH6 - La France de la Belle Epoque (1 sur 3) ; la République radical et ses oppositions (1900-1914).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H.CH6 - La France de la Belle Epoque (1 sur 3) ; la République radical et ses oppositions (1900-1914)"
+            }
+          },
+          {
+            "id": "73493113cd4727c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H.CH5 - La France des années 1890 ; vers une République plus consensuelle (1889-1899).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H.CH5 - La France des années 1890 ; vers une République plus consensuelle (1889-1899)"
+            }
+          },
+          {
+            "id": "7f2bf3f9dc515f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H.CH3 - Une décennie incertaine ; victoire à l'usure du régime républicain (1871-1879).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H.CH3 - Une décennie incertaine ; victoire à l'usure du régime républicain (1871-1879)"
+            }
+          },
+          {
+            "id": "138157789fb5ed98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H.CH2 - L'année terrible ; la France à l'épreuve de la guerre et de la guerre civile (1870-1871).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H.CH2 - L'année terrible ; la France à l'épreuve de la guerre et de la guerre civile (1870-1871)"
+            }
+          },
+          {
+            "id": "81cc9a65787e9b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fiche histoire CB2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "fiche histoire CB2"
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "bcf049ecd86ba6e6",
+        "type": "tabs",
+        "dimension": 63.77952755905512,
+        "children": [
+          {
+            "id": "2d526521ea7f0ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H.CH9 - La Grande Guerre (1914-1919) 1 sur 2 ; Découverte de la guerre industrielle de masse (1914-1916).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H.CH9 - La Grande Guerre (1914-1919) 1 sur 2 ; Découverte de la guerre industrielle de masse (1914-1916)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59e56a29ea7f2bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e69ab6d0d914f6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "756a726d79f3e2f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "7b9a0f156b149978",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "2e87ff0c339f9064",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.50499725341797,
+    "collapsed": true
+  },
+  "right": {
+    "id": "842d4dfae35b31a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aa498622b9b74c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2febd320040b63a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "H.CH5.I - Un consensus républicain, pour des rallitements (encore) partiels (1889-1892).md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour H.CH5.I - Un consensus républicain, pour des rallitements (encore) partiels (1889-1892)"
+            }
+          },
+          {
+            "id": "86957a5398f2e9b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "H.CH5.I - Un consensus républicain, pour des rallitements (encore) partiels (1889-1892).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de H.CH5.I - Un consensus républicain, pour des rallitements (encore) partiels (1889-1892)"
+            }
+          },
+          {
+            "id": "ddaa278383cc5677",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "d918baa53390e69d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "fiche histoire CB2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de fiche histoire CB2"
+            }
+          },
+          {
+            "id": "0f9adeaf1fae9bd3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "22131075eb723c31",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "H.CH5.I - Un consensus républicain, pour des rallitements (encore) partiels (1889-1892).md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriétés du fichier pour H.CH5.I - Un consensus républicain, pour des rallitements (encore) partiels (1889-1892)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": true,
+      "graph:Ouvrir la vue graphique": true,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": true,
+      "templates:Insérer le modèle": true,
+      "command-palette:Ouvrir la palette de commandes": true,
+      "zk-prefixer:Créer une nouvelle note unique": false,
+      "random-note:Ouvre une note au hasard": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "81cc9a65787e9b1c",
+  "lastOpenFiles": [
+    "H.CH9 - La Grande Guerre (1914-1919) 1 sur 2 ; Découverte de la guerre industrielle de masse (1914-1916).md",
+    "fiche histoire CB2.md",
+    "H.CH8 - La France de la Belle Epoque (3 sur 3) ; la société française de « 1900 » (années 1890-1914).md",
+    "H.CH11 - La France des années 1920 ; deuil insurmontable de la guerre ou « années folles » ?.md",
+    "H.CH10 - La Grande Guerre (1914-1918) 2 sur 2 ; de la mobilisation totale à la victoire finale (1917-1919).md",
+    "H.CH7 - La France de la Belle Époque (2 sur 3) ; la France coloniale dans la compétition impérialiste (1898-1913).md",
+    "H.CH5 - La France des années 1890 ; vers une République plus consensuelle (1889-1899).md",
+    "H.CH3 - Une décennie incertaine ; victoire à l'usure du régime républicain (1871-1879).md",
+    "H.CH2 - L'année terrible ; la France à l'épreuve de la guerre et de la guerre civile (1870-1871).md",
+    "poèmes.md",
+    "Histoire.md",
+    "H.CH6 - La France de la Belle Epoque (1 sur 3) ; la République radical et ses oppositions (1900-1914).md",
+    "media/HKS Chapitre 8 Société Française 1900.pdf",
+    "media/HKS Chapitre 7 France 1898-1913.pdf",
+    "S.CH4 - La socialisation et les instances de socialisation ; ou comment apprend-t-on à « être » a monde ?.md",
+    "La crise de Fachoda.md",
+    "Idées pour parcoursup.md",
+    "media/afrique début XXe.jpg",
+    "Le théâtre et son double - Antonin Arthaud.md",
+    "Sociologie.md",
+    "S.CH7 - Culture ou culture(s) ; Petit détour par l'éthnologie et l'anthropologie.md",
+    "Scandale des fiches.md",
+    "concordat de 1802.md",
+    "media/HKS Chapitre 6 république radicale 1900-1914.pdf",
+    "darwinisme social.md",
+    "syndicalisme jaune.md",
+    "loi de 1901 sur les associations.md",
+    "Pape Léon XIII.md",
+    "Bloc des gauches.md",
+    "\"Parce que\" est mort.md",
+    "media/HKS Chapitre 9 guerre de 14.pdf",
+    "media/HKS Chapitre 5 France 1889-1899.pdf",
+    "media/HKS Chapitre 3 décennie 1870.pdf",
+    "media/HKS Chapitre 2 1870-1871.pdf",
+    "media/HKS Chapitre 11 La France 1920.pdf",
+    "media/Capture d’écran 2025-02-02 à 17.11.51.png",
+    "media/HKS Chapitre 10 Grande Guerre 1917-1919.pdf",
+    "media/boudariesXVIII.jpg",
+    "media/Capture d’écran 2025-01-22 à 18.19.52.png",
+    "HERDER, <u>Une autre philosophie de l'histoire<",
+    "media/Capture d’écran 2025-01-19 à 13.41.08.png",
+    "media/Capture d’écran 2025-01-18 à 13.21.44.png",
+    "media/text one social hierarchy.JPG",
+    "media/IMG_4611.jpg",
+    "media/Capture d’écran 2025-01-13 à 14.42.03.png",
+    "media/Capture d’écran 2025-01-13 à 14.46.08.png",
+    "Sans titre.canvas"
+  ]
+}
