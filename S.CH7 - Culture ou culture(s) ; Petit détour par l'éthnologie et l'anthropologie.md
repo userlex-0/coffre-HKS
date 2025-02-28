@@ -54,7 +54,7 @@ liens: [[HKS]], [[Sociologie]]
 
 #### suite
 - **vision française : universaliste**
-- **vision française : particulariste**
+- **vision américaine : particulariste**, multiculturaliste
 
 ##### [[HERDER,  Une autre philosophie de l'histoire]] (philosophe all)
 - valorise diversité des cultures mais à l'encontre de l'universalisme français pour légitimer la Kultur

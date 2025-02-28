@@ -1,4 +1,4 @@
-liens: [[Alexandre]], [[fragments]], [[perso]], [[écritures]]
+[[poèmes]]
 
 ## Corps indolent
 

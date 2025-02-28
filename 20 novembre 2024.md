@@ -11,6 +11,15 @@ Qui pèse sur mes épaules et surmon dos
 Que je dois trainer toute au long de la journée
 Lorsqu'elle est la plus frustrée, elle se glisse et pèse
 De toute ses force dans la partie basse de ma machoire
-Je la hais, cette angoisse, qui me répète que c'est de ma faute
-Je me sens impuissant, dans une impasse terrible qui m'empêche*
+Je la hais, cette angoisse, 
+								qui me répète 
+													que c'est 
+																de ma 
+																	faute
+
+Je me sens impuissant,
+						dans 
+								une impasse 
+									terrible qui 
+											m'empêche*
 

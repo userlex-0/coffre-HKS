@@ -62,8 +62,8 @@ liens: [[HKS]], [[Histoire]], [[Première Guerre mondiale]]
 - Réactions des armées : développement de **masques à gaz**, de simples linges ammoniaqués à des masques avec système de filtration.
 
 #### <u>Faire flèche de tout bois : des rapatriés au front... aux animaux</u>
-- En 1918, l’industrie française de l’armement emploie 1,7 million d’ouvriers, contre 50 000 en 1914.
-- Main-d’œuvre : 430 000 femmes (munitionnettes), 50 000 militaires, 40 000 prisonniers de guerre.
+- En 1918, l’industrie française de l’armement emploie **1,7 million d’ouvriers**, contre 50 000 en 1914.
+- Main-d’œuvre : 430 000 femmes (**munitionnettes**), 50 000 militaires, 40 000 prisonniers de guerre.
 - Prisonniers de guerre : certains travaillent dans l’industrie, d’autres envoyés dans les bagnes d’Algérie.
 - Rapatriement d’ouvriers qualifiés du front organisé par les lois Dalbiez (1915) et Mourrier (1917).
 - Ouvriers rapatriés taxés d’"embusqués" par leurs camarades restés au front.
@@ -133,9 +133,9 @@ liens: [[HKS]], [[Histoire]], [[Première Guerre mondiale]]
 - Environ **140 000 travailleurs chinois en France** à partir d’avril 1916 :
 - 37 000 **recrutés par les Français,** arrivés par Marseille.
 - 100 000 **recrutés par les Britanniques,** transitant vers Le Havre.
-- **Stéréotypes raciaux :** "Orientaux", "Célestes", "Jaunes".
+- **Stéréotypes raciaux :** "Orientaux", "Célestes", "Jaunes"
 - **Perception :** indisciplinés, peu dociles, laborieux, bons commerçants et paysans.
-- ***Instruction relative à l’emploi de la main d’œuvre chinoise*** de septembre 1916 : Chinois grands, vigoureux, sobres, laborieux, aptes à devenir de bons ouvriers.
+- ***Instruction relative à l’emploi de la main d’œuvre chinoise*** de septembre 1916 : Chinois grands, vigoureux, sobres, laborieux, aptes à devenir de bons ouvriers
 - Distinction entre **"Chinois du Nord"** (« intelligent, méticuleux, adroit et résistant ») et **"anciens boys d’Européens"** (« joueurs, menteurs, voleurs»)
 - Travailleurs chinois **sous autorité britannique (Chinese Labour Corps-CLC) : répartis dans des camps proches du front.**
 - Travailleurs chinois côté français : ministère de l’Armement, établissements publics ou privés, **Transports**, **Mines**, Génie (aménagement mise en valeur, sorte d'"ingénieurie") , **Intendance**.
@@ -176,7 +176,7 @@ liens: [[HKS]], [[Histoire]], [[Première Guerre mondiale]]
 - Guerre sous-marine à outrance pousse les Américains à bout.
 - Opinion publique américaine **hostile à l’Allemagne mais isolationniste.** => soutienne l'Entente (fabrication d'armes de conserves... qu'ils vendent aux britanniques et français)
 - Tensions accrues : bombes allemandes dans usines d’armement américaine, naufrages de navires par U-boots allemands (200 navires ont été coulés dans l’Atlantique en trois mois)
-	- mais **demeure isolationniste** par tradition américaine (**doctrine Monroe de 1823** : ne pas se mêler des affaires européennes
+	- mais **demeure isolationniste** par tradition américaine (**doctrine Monroe de 1823** : ne pas se mêler des affaires européennes)
 - **Télégramme Zimmerman (mars 1917)** : promesse de restitution de territoires au Mexique, intercepté par les Britanniques => **déclencheur de déclaration de guerre des américain**
 - **US déclare guerre le 6 avril 1917.**
 - mais armée américaine non préparée, formation nécessaire par Français et Britanniques (économie de guerre américaine en cours de conversion.)
@@ -185,7 +185,7 @@ liens: [[HKS]], [[Histoire]], [[Première Guerre mondiale]]
 	- Soutien américain surtout moral et psychologique en 1917.
 		- **Général Pershing** à Paris le 4 juillet 1917 : **message de soutien historique.**
 - **Guerre d’usure caractérise les fronts en 1917**, cruauté et absurdité.
-- **Automne 1917 : avancée britannique de 10 km** à Paschendaele, au **prix de 250 000 hommes** (soit 25 morts par mètres)
+- **Automne 1917 : avancée britannique de 10 km** à ***Paschendaele***, au **prix de 250 000 hommes** (soit 25 morts par mètres)
 
 ### 2. La crise militaire
 #### <u>Les mutineries</u>
@@ -270,7 +270,7 @@ liens: [[HKS]], [[Histoire]], [[Première Guerre mondiale]]
 - **Affaire Caillaux :** Joseph Caillaux lié à *Almeyréda*, **Louis Malvy** compromis, démissionne.
 - **Affaire Bolo-Pacha :** Paul Bolo, agent allemand, fusillé en 1918.
 - **Aristide Briand** accusé de contacts diplomatiques avec l’Allemagne.
--  **[[Affaire Mata Hari ]]** : danseuse néerlandaise Margaretha Geertruida Zelle, espionne pour l’Allemagne, fusillée en octobre 1917.
+- **[[Affaire Mata Hari ]]** : danseuse néerlandaise Margaretha Geertruida Zelle, espionne pour l’Allemagne, fusillée en octobre 1917.
 - **Grande Guerre : guerre d’espions**, cas de **Louise de Bettignies**, espionne **exécutée en 1916.**
 
 #### <u>Rupture de l'Union Sacrée et tentation de la paix de compromis</u>
@@ -328,7 +328,6 @@ liens: [[HKS]], [[Histoire]], [[Première Guerre mondiale]]
 - Création d’un commandement militaire unique allié sous Ferdinand Foch.
 - Panique chez les Alliés, **regain d’optimisme en Allemagne.**
 - **Guillaume II oblige l’Autriche-Hongrie** à signer un **nouveau pacte d’alliance**, satellisant l’Autriche-Hongrie au Reich.
-
 #### <u>Le retour de la crise sociale à l’Arrière</u>
 - Printemps 1918 : **grèves importantes à Paris et Londres.**
 - Victoire alliée estimée impossible avant 1919, nécessitant la montée en puissance des Américains
@@ -347,7 +346,7 @@ liens: [[HKS]], [[Histoire]], [[Première Guerre mondiale]]
 #### <u>La grippe espagnole</u>
 - Pandémie de grippe espagnole, **200 000 morts dans chaque société belligérante de 1918 à 1920.**
 - **30 000 soldats français meurent** de la grippe au printemps 1918.
-- Célébrités décédées : **Edmond Rostand, Guillaume Apollinaire, Egon Schiele, Franz Kafka, Max Weber**.
+- Célébrités décédées : **Edmond Rostand, Guillaume Apollinaire, Egon Schiele, Franz Kafka, Max Weber**
 - Moral au plus bas
 - **50 à 100 millions de morts** dans le monde (3 à 5% de la population mondiale).
 - Surnommée "grippe espagnole" **car seuls les journaux espagnols en parlent, l’Espagne étant neutre.**
@@ -369,8 +368,7 @@ liens: [[HKS]], [[Histoire]], [[Première Guerre mondiale]]
 - **Alliés** utilisent **automobiles** et camions pour soutien logistique décisif
 - **Allemands** utilisent le **chemin de fer**, moins flexible
 - Combats limités aux mêmes régions, pas d’extension de la guerre à l’Ouest
-- **Allemands en recul, politique de la terre brûlée :** destruction systématique des infrastructures et installations
-
+- Allemands en recul, politique de la terre brûlée destruction systématique des infrastructures et installations
 ### 2. Vers l'armistice du 11 novembre 1918
 
 #### <u>Contexte général : la défaite des alliés de l'Allemagne</u>

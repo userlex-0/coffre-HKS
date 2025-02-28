@@ -50,7 +50,7 @@ liens: [[HKS]], [[Sociologie]]
 - transformation long terme : école promeut la culture
 - bourgeoisie récale un accès + important à l'école
 - **1833 : loi Guizot** oblige les communes de + de 6000 hab à école primaire
-	- Loi Falloux reconnait coexistence privé / public
+	- **Loi Falloux** reconnait coexistence privé / public
 	- école pour jeunes filles
 - D. étudie aussi bien :
 	- savoir transmis par l'école
@@ -121,14 +121,14 @@ A partir des années 60 : évolution
 	 - tjrs démocratisation quantitative
 	 - bcp - de démocratisation qualitative
 
-#### Pierre MERLE, [[La note à l'école]]
+#### Pierre MERLE, <u>La note à l'école</u>
 - partisan de l'école sans notes (car esprit compétitif nocif pour l'apprentissage)
 - distingue **3 types de démocratisation scolaire**
-	- **1 - Démocratisation égalisatrice**
+	- **1) Démocratisation égalisatrice**
 		- augmentatº taux de scolarisatº => amélioration sociale
-	- **2 - Démocratisation uniforme**
+	- **2) Démocratisation uniforme**
 		- augmentatº taux de scolarité => maintien des inégalités`
-	- **3 - Démocratisation ségrégative**
+	- **3) Démocratisation ségrégative**
 		- augmentatº taux scolarisation => hausse des inégalités
 - Sur la période 1995-2015, on est sur "Démocratisation ségrégative"
 	- recrutements dans filière S moins égalitaire depuis création BAC pro (=> classes popR s'en extirpent eux même)
@@ -184,14 +184,7 @@ A partir des années 60 : évolution
 	- "*Il est trop scolaire*" => complètement absurde et injuste
 - "***héritiers***" en terme de capitaux culturels
 - K écoK : secondaire par rapport au K culturel et ne fait que le renforcer
-- **K culturel**
-	- **K culturel interiorisé**
-		- manière de voir le monde (manière de comprendre œuvres litt. par exemple)
-	- **K culturel objectivé**
-		- possession matériel (ex: bibliothèque, livres, œuvres d'art)
-	- **K culturel institutionnalisé**
-		- diplômes obtenus, dont la valeur par l'Etat
-	- ces K culturels sont investis par les parents 
+
 	
 - selon Bourdieu, véritable **marché scolaire** sur lesquels les **familles essaient d'engrenger certains profits matériels**, mais surtout **profits symobliques**
 	- parents transforment K écoK en K culturel
@@ -282,7 +275,7 @@ A partir des années 60 : évolution
 - **grande frustration relative**, (montre à quel point les discours prometteur de l'école peut être traître)
 - à partir années 70
 	- usines qui ferment -> métier d'ouvrier dévalorisé et fui 
-	- => les générations sont socialisées progressivement avec image très négative de l'ouvrier (honte)
+	- => les générations sont socialisées progressivement avec image très négative de l'ouvrier, sentiment de honte
 
 ### BAUDELOT et ESTABLET, <u>Allez les filles</u> (1992), <u>Quoi de neuf chez les filles</u> (2007)
 - filles performent mieux que les garçons (toutes matières confondues)
@@ -414,7 +407,7 @@ ou "Pygmalion dans la classe. L'attente du maître et le développement intellec
 - le fait d'insister presque **exclusivement sur la forme** nuit à la maîtrise du fond
 - engendre => abandon du rapport pratique à la langue (càd désinciter le "parlé ordinaire" au profit d'un langage "soutenu") => **l'oral devient un écrit déguisé**
 - **Au sein milieux popR, langage parlé - soutenu que dans milieux favorisés** (en famille par ex)
-		- **enfants issus de milieux popR ont donc + de difficultés à changer de langage que les favorisés**
+	- **enfants issus de milieux popR ont donc + de difficultés à changer de langage que les favorisés**
 
 ### B LAHIRE, <u>Tableaux de famille - heurs et malheurs scolaire en milieux populaires</u>
 - L s'interroge entre les liens entre les différents styles d'accompagnement scolaire des parents au sein d'un même milieu scolaire

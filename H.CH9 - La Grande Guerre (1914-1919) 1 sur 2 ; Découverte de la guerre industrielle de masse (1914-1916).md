@@ -33,29 +33,30 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - Mobilisation partielle en Autriche-Hongrie, Serbie et Russie, refus allemand d’une conférence internationale proposée par la Grande-Bretagne tandis qu'acceptée par Russes, Francais, Italiens.
 - Déclaration de guerre de l'Autriche-Hongrie à la Serbie le 28 juillet, suivie de la mobilisation générale russe le 30 juillet et austro-hongroise le 31.
 - Allemagne déclarant un « danger de guerre imminent », menaçant la Russie et ses alliés, dont la France.
-- Jean Jaurès, fervent pacifiste, tente d’empêcher la guerre, mais est assassiné le 31 juillet par Raoul Villain, influencé par la presse nationaliste de l'*Action Française*
+- ==Jean Jaurès==, fervent pacifiste, tente d’empêcher la guerre, mais est **assassiné le 31 juillet** par ==Raoul Villain==, influencé par la presse nationaliste de l'*Action Française*
 
 ### 2. Mobilisation et Union sacrée
 #### <u>Les entrées en guerre</u>
-- 1er août 1914 : Mobilisation générale en Grande-Bretagne, France et Allemagne.
+- **1er août 1914 :** Mobilisation générale en Grande-Bretagne, France et Allemagne.
 - **2 août** : Alliance entre l'Allemagne et l'Empire ottoman, élargissant le conflit au-delà de l'Europe.
 - **3 août** : Déclaration de guerre de l'Allemagne à la France et invasion de la Belgique suivant le plan Schlieffen.
-- (**4 août** ) violation de la neutralité belge : motif de la déclaration de guerre britannique à l'Allemagne le 
+-  violation de la neutralité belge : motif de la déclaration de guerre britannique à l'Allemagne le **4 août** 
 - L'Italie choisit la neutralité malgré ses engagements passés car soudoyer par la France qui promet à l'Italie des territoires d'actuel Croatie italophones
 
 #### *<u>Le revirement patriotique de la classe ouvrière</u>
-- **4 août** :  [[Léon Jouhaux]], secrétaire de la CGT, rend hommage à Jaurès tout en affirmant le devoir patriotique du prolétariat français.
-- Justification de l’entrée en guerre du mouvement ouvrier contre l’impérialisme allemand et autrichien ainsi que par le dédouanement de la France quant à l'entrée en guerre (voulue et imposée par les Allemands et les Autrichien) 
+- **4 août** :  ==[[Léon Jouhaux]]==, secrétaire de la CGT, rend hommage à Jaurès tout en affirmant le devoir patriotique du prolétariat français.
+- Justification de l’entrée en guerre du mouvement ouvrier contre l’impérialisme allemand et autrichien ainsi que par le dédouanement de la France quant à l'entrée en guerre (voulue et imposée par les Allemands et les Autrichien)
 - Ralliement de la gauche à l’[[Union sacrée]], scellée dès les funérailles de Jaurès avec la présence d’acteurs de diverses tendances politiques.
-- Le **« carnet B »** listant les leaders socialistes à surveiller, ministre de l’Intérieur Louis Malvy décide au final de ne pas l'utiliser 
-- Le **11 août**, la France déclare la guerre à l’Autriche-Hongrie, suivie par le Royaume-Uni, marquant l’**extension rapide de la guerre au niveau mondial**. 
+- Le **« carnet B »** listant les leaders socialistes à surveiller, ministre de l’Intérieur ==Louis Malvy== décide au final de ne pas l'utiliser 
+- Le **11 août**, la France déclare la guerre à l’Autriche-Hongrie, suivie par le Royaume-Uni, marquant l’**extension rapide de la guerre au niveau mondial**.
 
 #### <u>Enthousiasme général ou résignation ?</u>
-- Départ des jeunes Français début août 1914 avec des illusions d’une guerre courte.
+- Départ des jeunes Français début août 1914 avec des **illusions d’une guerre courte.**
 - Le cliché de l’enthousiasme avec la « fleur au fusil » est remis en question par les historiens.
-- Prévalence de la résignation et du devoir défensif, plutôt que de la joie 
+- Prévalence de la résignation et du devoir défensif, plutôt que de la joie
 	- Comme le soutient **Jean-Jacques Becker** dans *1914, comment les Français sont entrés dans la guerre*(1977)
-	- **Clemenceau** écrit dans son nouveau journal L’Homme libre (lancé en 1913): « Dans Paris, pas un cri, pas un mouvement de foule. Rien que la gravité d’une résolution »
+> [!quote] **Clemenceau** dans son journal *L’Homme libre* (lancé en 1913) 
+> « Dans Paris, pas un cri, pas un mouvement de foule. Rien que la gravité d’une résolution »
 - Confort des Français dans leur attitude patriotique face à l’invasion allemande de la Belgique neutre.
 - La récupération de l’**Alsace-Lorraine n’est pas une priorité** majeure du patriotisme défensif de 1914.
 
@@ -65,7 +66,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - Russie déclare la guerre aux Ottomans et attaque par le Caucase
 - Japon déclare la guerre à l'Allemagne le 23 août 1914 et attaque ses comptoirs en Chine
 - Italie, initialement neutre, rejoint la Triple Entente au printemps 1915
-- Mobilisation des troupes coloniales, y compris des tirailleurs sénégalais (France) et des Indiens Sikhs (Angleterre)
+- Mobilisation des troupes coloniales, y compris des **tirailleurs sénégalais** (France) et des **Indiens Sikhs (Angleterre)**
 - Conflits dans les colonies africaines, notamment au Cameroun, en Namibie et au Rwanda
 - Amérique reste non touchée par la guerre jusqu'en 1917
 
@@ -73,22 +74,22 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 ### 1. L'Allemagne ?
 #### <u>Pour les Allemands, de la légitime défense</u>
 - **Traité de Versailles (1919)** désigne l'Allemagne comme seule responsable du conflit
-- Allemagne soutient que le plan Schlieffen était une défense légitime et préemptive
+- Allemagne soutient que le **plan Schlieffen** était une défense légitime et préemptive
 - Allemagne attaque rapidement à l'Ouest pour neutraliser Paris et dissuader les Britanniques
 - Allemagne se considère victime de la crise diplomatique de l'été 1914
-- Prusse-Orientale envahie et occupée par les armées russes en août 1914
-- Atrocités en Prusse-Orientale : incendies, exécutions, viols, pillages, déportations
-- Environ 1500 personnes tuées, 13 600 civils déportés, 39 villes et 1900 villages détruits
+- **Prusse-Orientale envahie et occupée par les armées russes en août 1914**
+	- **Atrocités en Prusse-Orientale** : incendies, exécutions, viols, pillages, déportations
+	- Environ **1500 personnes tuées**, 13 600 civils déportés, 39 villes et 1900 villages détruits
 - Bataille de Tannenberg (26-30 août 1914) repousse les Russes vers la Pologne
 - Un manifeste publié par 93 intellectuels allemands (octobre 1914) dénonce les atrocités russes
 - Intellectuels et scientifiques allemands cautionnent la guerre et se présentent comme victimes
 
 #### <u>Les « atrocités allemandes » de l’été 1914</u>
-- Historiens John Horne et Alan Kramer dans "German Atrocities, 1914" (2001) montrent que la France et la Grande-Bretagne sont stupéfaites par les ravages en Belgique
-- Traversée allemande de la Belgique cause la mort de 6 427 civils et destructions systématiques de villes (Dinant, Tamines, Louvain, Andenne) : ravage meurtrier (une moyenne de 200 morts par ville, des habitants ont été rassemblés sur les places et passés à la mitrailleuse)
-- Ces violences en apparence irrationnelles et sadiques ont en fait une explication : les troupes épuisées se croient littéralement être attaquées par des francs-tireurs.
+- Historiens ==John Horne== et ==Alan Kramer== dans ***"German Atrocities, 1914"*** (2001) montrent que la France et la Grande-Bretagne sont stupéfaites par les ravages en Belgique
+- Traversée allemande de la Belgique cause la **mort de 6 427 civils** et **destructions systématiques de villes** (Dinant, Tamines, Louvain, Andenne) : ravage meurtrier (une moyenne de 200 morts par ville, des **habitants ont été rassemblés sur les places et passés à la mitrailleuse**)
+- Ces violences en apparence irrationnelles et sadiques ont en fait une explication : les **troupes épuisées se croient littéralement être attaquées** par des francs-tireurs.
 - Destructions de bâtiments, exécutions d'otages, utilisation de civils comme boucliers humains
-- Plan Schlieffen, fatigue et désorientation des troupes conduisent à assigner les pertes aux civils
+- **Plan Schlieffen**, fatigue et désorientation des troupes conduisent à assigner les pertes aux civils
 - Stratégie belge de harcèlement attise la peur et la frustration dans l'armée allemande
 - Légende des francs-tireurs : tout homme civil en âge de servir devient suspect
 - Système de conscription incomplet en Belgique renforce la suspicion allemande
@@ -362,7 +363,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - **Occasions de tuer rares**, réflexe de survie primant sur l’envie de tuer.
 - **Mort anonyme** : absence de plaisir à tuer, invisibilité des victimes.
 	- **Artilleurs ne voient pas les effets de leurs tirs**, tirs entre tranchées sans visibilité.
-- **Témoignage d’Anatole Castex** : *« c’est une guerre d’apaches, on se guette comme on guette un 20 lapin à l’affût, on se fait sauter, on se tue sans se voir, on est à quarante mètres et on ne se voit pas. Nous sommes devenus des bandits »*
+- **Témoignage d’Anatole Castex** : *« c’est une guerre d’apaches, on se guette comme on guette un lapin à l’affût, on se fait sauter, on se tue sans se voir, on est à quarante mètres et on ne se voit pas. Nous sommes devenus des bandits »*
 
 [[Témoignages de la Grande Guerre]]
 
@@ -373,7 +374,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - **Officiers ont droit de vie et de mort sur leurs hommes**, gendarmerie à l’arrière pour récupérer les fuyards.
 - Soldats mettent en place des stratégies de contournement, selon Prost et CRID.
 - **Tony Ashworth :** **"Live and let live system"** réduit et ritualise la violence entre combattants.
-- **Pratiques de réciprocité, trêves spontanées** comme la t**rêve de Noël 1914.**
+- **Pratiques de réciprocité, trêves spontanées** comme la **trêve de Noël 1914.**
 - **Prost** : Brutalisation concerne une minorité, nettoyeurs de tranchée souvent voyous ou anciens détenus.
 - **Jeunes soldats influencés par la propagande** perdent rapidement l’envie de tuer face à la réalité des combats.
 
@@ -445,7 +446,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - Début des **bombardements aériens de villes**, avions utilisés pour reconnaissance et combats aériens.
 - Premiers bombardiers à réaction en 1918, bombardements de l’Angleterre et de la Ruhr.
 - **Bombardements de Paris** au printemps 1918 par les Parizer Kanonen, descriptions dans "La recherche du temps perdu" de Proust.
-- Utilisation de zeppelins (dirigeables) pour bombarder Paris dès 1914, décors répliquant Paris construits pour tromper les dirigeables
+- Utilisation de ***zeppelins*** (dirigeables) pour bombarder Paris dès 1914, décors répliquant Paris construits pour tromper les dirigeables
 	- lumières de paris éteintes, lumières des décors allumées
 
 #### <u>Le Blocus des Alliés sur l’Allemagne</u>
@@ -456,7 +457,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - Environ **700 000 morts de malnutrition.**
 - **Hiver 1916-17 : "l’hiver des rutabagas"**, pénurie alimentaire.
 - Blocus accélère la décomposition de l’arrière et l’effondrement de l’Allemagne en 1918.
-- **Traumatisme** à long terme : **Hitler se souviendra du blocus** lors de la Seconde Guerre mondiale.
+- **Traumatisme** à long terme : **Hitler se souviendra du blocus** lors de la Seconde Guerre mondiale
 
 #### <u>Un génocide au Proche-Orient</u>
 - La Grande Guerre comme laboratoire de nouvelles formes de violence de guerre et de masse.

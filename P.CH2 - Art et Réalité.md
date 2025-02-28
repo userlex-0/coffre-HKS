@@ -1,13 +1,4 @@
-
 liens: [[HKS]], [[Philosophie]], [[philo CH2 heloise.pdf]]
-
-# *Art et Réalité*
-### *Quel mode d'existence pour ces œuvres d'art qui constituent notre réalité, faut-il penser que l'art nous éloigne de la réalité ou qu'au contraire il nous la révèle ?*
-#### [[P.CH2 - Art et Réalité#I - A première vue, en quoi l'art, en se déployant comme artifice, occulte le principe de réalité|I - A première vue, en quoi l'art, en se déployant comme artifice, occulte le principe de réalité]]
-#### [[P.CH2 - Art et Réalité#II - Cependant, en quoi l'art nous permetterait-il d'accéder à une réalité supérieure au-delà de la réalité immédiate ?|II - Cependant, en quoi l'art nous permetterait-il d'accéder à une réalité supérieure au-delà de la réalité immédiate ?]]
-#### [[P.CH2 - Art et Réalité#III - N'est-ce pas à travers des œuvres concrètes que l'art peut dépasser la réalité ordinaire ?|III - N'est-ce pas à travers des œuvres concrètes que l'art peut dépasser la réalité ordinaire ?]]
-
-
 # Intro
 - Art et Réalité, rapport entre deux dimensions ontologique
 - le réel est tjrs là, d'abord reçu puis vécu (aspect sensible)
@@ -52,12 +43,17 @@ liens: [[HKS]], [[Philosophie]], [[philo CH2 heloise.pdf]]
 	- l'art ne peut donc exister sans la réalité
 - les œuvres en elles-même s'inscrivent de le réel, elles ont une histoire
 
-([[P.CH2 - Art et Réalité#*Quel mode d'existence pour ces œuvres d'art qui constituent notre réalité, faut-il penser que l'art nous éloigne de la réalité ou qu'au contraire il nous la révèle ?* |Problématique]])
+### *Quel mode d'existence pour ces œuvres d'art qui constituent notre réalité, faut-il penser que l'art nous éloigne de la réalité ou qu'au contraire il nous la révèle ?*
+#### [[P.CH2 - Art et Réalité#I - A première vue, en quoi l'art, en se déployant comme artifice, occulte le principe de réalité|I - A première vue, en quoi l'art, en se déployant comme artifice, occulte le principe de réalité]]
+#### [[P.CH2 - Art et Réalité#II - Cependant, en quoi l'art nous permetterait-il d'accéder à une réalité supérieure au-delà de la réalité immédiate ?|II - Cependant, en quoi l'art nous permetterait-il d'accéder à une réalité supérieure au-delà de la réalité immédiate ?]]
+#### [[P.CH2 - Art et Réalité#III - N'est-ce pas à travers des œuvres concrètes que l'art peut dépasser la réalité ordinaire ?|III - N'est-ce pas à travers des œuvres concrètes que l'art peut dépasser la réalité ordinaire ?]]
+
 
 # I - A première vue, en quoi l'art, en se déployant comme artifice, occulte le principe de réalité
 ## A) De l'art sérieux de l'artisan à l'art ludique de l'artiste
 
-> « *Le christianisme est un platonisme pour les masses* » NEITZCHE
+> [!quote] Neitzche
+> « *Le christianisme est un platonisme pour les masses* »
 
 - Pour les grecs, l'art avait pour vocation de **représenter la réalité** (l'art imitation)
 	- -> caractère "référentiel" de la représentaiton
@@ -85,6 +81,7 @@ liens: [[HKS]], [[Philosophie]], [[philo CH2 heloise.pdf]]
 	- **Bonne imitation = Copie conforme**
 - selon **Polyclète**,
 	- Beauté dans l'**harmonie**, la **symétrie parfaite** (complexité dans la perfection)
+> [!quote] Polyclète
 > « Le Bien \[...] résulte de beaucoup de nombre et dépend d'un rien. » (cf. citation 6)
 
 - *Les raisins* de ZEUXIS (peintre) - exemple de **simulacre**
@@ -127,8 +124,8 @@ liens: [[HKS]], [[Philosophie]], [[philo CH2 heloise.pdf]]
 	- Platon refuse pdv d'Héraclite où *« tout s'écoule »*, tout change
 	- selon Platon, sensible = point de départ pour trouver la **Vérité**
 
-- la **VÉRITÉ** ne peut pas être apréhende par le sensorielle mais par le **LOGOS** (la réfléxion, la raison)
-- opposition entre ce qui est saisit par SENS et par LOGOS distingue 2 parties dans le cosmos :
+- la **VÉRITÉ** ne peut pas être apréhendée par le sensorielle mais par le **LOGOS** (la réfléxion, la raison)
+- opposition entre ce qui est saisit par les SENS et par LOGOS distingue 2 parties dans le cosmos :
 	- **les choses sensibles**
 	- **l'intelligible**
 - (!) LE PASSAGE ENTRE **SENSIBLE** ET **INTELLIGIBLE** => **DIALECTIQUE**
@@ -194,8 +191,6 @@ liens: [[HKS]], [[Philosophie]], [[philo CH2 heloise.pdf]]
 	- une bonne imitation est de ce qui est du vraisemblable
 
 
-
-
 # II - Cependant, en quoi l'art nous permetterait-il d'accéder à une réalité supérieure au-delà de la réalité immédiate ?
 
 - **On ne peut pas réduire l'art à une simple imitation du réel**
@@ -238,8 +233,8 @@ Bilan : A la Renaissance on passe lentement de l'imitation à la création d'un 
 - espace vécu : continuelle modification
 
 - ==PANOFSKY==, philosophe de l'art
-	- il y a un caractère symbolique dans l'art de la Renaissance 
-		- (ce qu'il n'y avait pas avant ?)
+	- il y a un caractère **symbolique** dans l'art de la Renaissance 
+		
 	- ==*Les Époux d'Arnolfini*==, Van Eycke
 		- ils n'ont pas l'air heureux
 		- ils ne se regardent pas 
@@ -257,7 +252,7 @@ Bilan : A la Renaissance on passe lentement de l'imitation à la création d'un 
 ##### ==[[BERGSON]]==, <u>Le Rire</u>
 
 - *« **Nous ne voyons pas les choses mêmes** ; nous nous bornons, le plus souvent à lire les étiquettes collées sur elles. Cette **tendance, issue du besoin**, s'est encore accentuée sous l'influence du **langage**.  Car les mots (à l'exception des noms propres) désignent des genres. **Le mot**, qui ne note de la chose que sa fonction la plus commune et son aspect banal, **s'insinue entre elle et nous, et en masquerait la forme à nos yeux**  si cette forme ne se dissumlait pas déja derrière les besoins qui ont crée le mot lui-même. »*
-
+=
 	- avec les mots, ce sont à la fois nos états d'âme ET les choses extérieures qui nous échappent
 	- soutient une **thèse paradoxale**
 		- car les **mots** sont communément définis comme moyen d'expression, outil de communication, c'est d'ailleurs notre principal outil de communication

@@ -1,4 +1,4 @@
-liens: [[perso]] [[écritures]] 
+[[poèmes]]
 
 
 ## Étincelle dans un brouillard
@@ -48,5 +48,5 @@ Que celles des aurores boréales.
 *Des flammes qui me brûlent*
 *Ces flammes font mal, mais tout fait mal*
 *Ces flammes me rattachent à celle que j'aime*
-*Au moins;*
+*Au moins.*
 
