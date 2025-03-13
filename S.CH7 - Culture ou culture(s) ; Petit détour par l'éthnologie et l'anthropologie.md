@@ -16,7 +16,7 @@ liens: [[HKS]], [[Sociologie]]
 - stés : + en + ouverts, marqués par **pluralités des origines différentes**
 - donc qº du **multiculturalisme** fait de + en + débat
 
-### Denis CUCHE, <u>La Notion de culture en sciences sociales</u>
+### ==Denys CUCHE==, <u>La Notion de culture en sciences sociales</u>
 - les mots *font* l'histoire, particulièrement vrai pour le mot *culture*
 - les mots apparaissent pour répondre pour répondre à des problématiques
 - nouveau mot c'est poser le problème, le simple fait d'avoir un mot pour caractériser qqchose ça commence déjà un peu à résoudre pbM

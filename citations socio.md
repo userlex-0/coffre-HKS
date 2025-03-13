@@ -1,8 +1,9 @@
 liens: [[HKS]], [[Sociologie]]
 
-
+> [!quote] Rabelais, *Gargantua*
+***« Science sans conscience n'est que ruine de l'âme. »***
 ### [[Raymond Aron (1905-1983)]]
-*« Les sociologues ne sont d'accord entre eux  que sur un point : la difficulté de définir la sociologie »*
+*« Les sociologues ne sont d'accord entre eux que sur un point : la difficulté de définir la sociologie »*
 
 ### [[Pierre-Joseph Proudhon (1809-1865)]]
 *« La propriété c'est le vol »*, <u>Qu'est ce que la propriété ?</u>
@@ -14,7 +15,7 @@ liens: [[HKS]], [[Sociologie]]
 - *« La science se construit contre l'évidence »*
 
 ### [[Pierre Bourdieu (1930-2002)]]
-- *« Le goût est toujours le dégoût des autres. »*
+- *« Le goût, c'est le dégoût du goût des autres. »*
 
 ### [[K. Popper ]]
 - *« Ce n’est pas parce que j’observe des signes blancs que je peux dire que tous les signes sont blancs »*

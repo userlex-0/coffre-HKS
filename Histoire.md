@@ -14,6 +14,8 @@ liens: [[HKS]], [[La Commune de Paris]], [[Le 16 Mai 1877]], [[Le boulangisme]],
 # [[H.CH9 - La Grande Guerre (1914-1919) 1 sur 2 ; Découverte de la guerre industrielle de masse (1914-1916)]]
 # [[H.CH10 - La Grande Guerre (1914-1918) 2 sur 2 ; de la mobilisation totale à la victoire finale (1917-1919)]]
 # [[H.CH11 - La France des années 1920 ; deuil insurmontable de la guerre ou « années folles » ?]]
-- pas complet
+
+# [[H.CH12 - La France des années 1930 ; une course vers l'ambîme ?]]
+
 
 

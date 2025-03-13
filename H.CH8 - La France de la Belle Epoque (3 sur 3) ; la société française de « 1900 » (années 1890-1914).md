@@ -323,5 +323,121 @@ liens: [[HKS]], [[Histoire]]
 
 ## B) Les élites (à la fois urbaines et rurales)
 ### 1. Un renouvellement des élites
+#### <u>Des élites à la croisée de deux univers</u>
+- Les élites combinent vie urbaine (appartements, hôtels particuliers) et grandes propriétés rurales.
+- En Europe, les aristocraties ont su s’adapter à l’économie moderne tout en préservant leur mode de vie.
+- Elles se mêlent aux grandes dynasties industrielles et bancaires comme les Schneider (France) et les Krupp (Allemagne).
+- L’historien Arno Mayer (1981) défend l’idée d’une domination persistante des aristocraties avant 1914.
+- Selon lui, elles freinent l’ascension des bourgeoisies par divers moyens.
+- En Allemagne, Autriche-Hongrie et Royaume-Uni, elles monopolisent les postes institutionnels et bloquent les réformes.
+- Elles freinent la diffusion des idées progressistes comme la sociologie de Durkheim ou la psychanalyse de Freud.
+- En France, ce phénomène est atténué par la tradition républicaine et une vision différente de l’identité nationale.
+- La bourgeoisie imite l’aristocratie par l’anoblissement, la formation de dynasties et l’éducation traditionnelle.
+- L’architecture, la culture et les comportements bourgeois reprennent les codes aristocratiques.
+- Les salons bourgeois adoptent les mêmes pratiques sociales que les cercles nobles.
+- Cette fusion aristocratie-bourgeoisie marque les élites européennes avant 1914.
+#### <u>Les professions libérales en plein essor</u>
+- Les professions libérales (médecins, avocats, journalistes, architectes) connaissent une forte expansion.
+- Une professionnalisation accrue mène à une meilleure reconnaissance sociale, avant l’obtention d’un statut officiel.
+- En France, le statut des avocats est reconnu en 1920, celui des journalistes en 1935.
+- Le nombre de hauts fonctionnaires, ingénieurs, courtiers et assureurs augmente.
+- Une bourgeoisie à talent émerge, alliant études, patrimoine, professions et engagement politique.
+- Le patronat est très diversifié, allant de l’artisan à l’industriel employant plusieurs centaines d’ouvriers.
+- L’ascension sociale d’un artisan à patron d’une grande entreprise prend souvent plusieurs générations.
+- Des figures comme Jean François Cail illustrent le mythe du « fils de ses œuvres » (self-made man).
+- Des stratégies familiales (épargne, mariages, apprentissage, études) favorisent la transmission du capital.
+- Certaines familles fondent des dynasties industrielles ou commerciales prospères au XIXe siècle.
+- Exemples : Henri Germain (Crédit Lyonnais) issu de soyeux lyonnais, famille Siegfried (industrie textile et commerce).
+- Ces dynasties contribuent à structurer l’économie et la société européennes.
+### 2. Des consommations ostentatoires
+#### <u>La nouvelle bourgeoisie commerçante ou industrielle enrichie pendant le 2nd Empire</u>
+- **Nouvelle bourgeoisie** enrichie au Second Empire et fin XIXe siècle.
+- **Marque sa distinction** par son habitat et son espace.
+- **S’isole** du peuple et des classes moyennes.
+- Attirée par **nouveaux quartiers** ou anciens quartiers restructurés.
+- **Lyon** : départ vers les **Brotteaux**, près du parc de la Tête d'Or.
+- **Marseille** : hôtels particuliers sur **nouveaux boulevards**.
+- **Luxe ostentatoire**, éclectisme architectural critiqué par les anciennes élites.
+- **Grandes élites patronales** imitent la noblesse.
+- Achat de **châteaux**, exemple : **James de Rothschild à Ferrières**.
+#### <u>Hierarchie forte, l'argent joue un rôle capital</u>
+- **Hiérarchies fortes**, où **argent** et **capital** sont centraux.
+- **Propriété et culture** définissent la bourgeoisie.
+- **Ralentissement** de l’enrichissement vers **1900**.
+- **Notoriété familiale, relations, style de vie** influencent le statut.
+- **Travail, épargne, paraître** : valeurs essentielles.
+- **Dot et établissement des enfants**, obligations bourgeoises.
+- **Études supérieures** restent rares, mais peuvent mener à la bourgeoisie.
+- **Dépenses principales** : alimentation, logement, domestiques, loisirs, mondanités.
+- **Employé de maison**, minimum pour reconnaissance bourgeoise.
+- **Habitat** : de la **boutique** à l’**hôtel particulier** (Schneider, de Wendel).
+- **Tenue vestimentaire** : noir austère pour hommes, couleurs et luxe pour femmes.
+- **Sociabilité** : dîners, bals, cercles, clubs, réceptions (cf. **Proust**).
+- **Pratique religieuse** : forte chez la **grande bourgeoisie**, plus faible chez la moyenne.
+- **Famille** : clé de la transmission du **capital économique et social**.
+## C) Le monde rural, encore majoritaire avant 1914
+### 1. Une société homogène et immobile ?
+#### <u>Société rurale très variée</u>
+- **Société rurale variée** : agriculteurs, artisans, commerçants, fonctionnaires, ouvriers, professions libérales.
+- **Hiérarchie forte** : propriété foncière, droit de vote, fortune, valeurs morales et religieuses.
+- **Paysannerie hiérarchisée** : selon **propriété** et **dépendance** vis-à-vis des propriétaires.
+- **Grands propriétaires en baisse** en France (1880), mais présents dans l’Ouest.
+- **Grandes exploitations** : Bordelais, Ouest, Centre, Picardie.
+- **Comparaison européenne** : **Latifundia** en Espagne, **Junkers** en Allemagne.
+- **Petits et moyens propriétaires dominants** en France (viticulture, polyculture).
+- **Idéal républicain** : paysan indépendant, exploitant 10 hectares, enraciné dans son terroir.
+- **Développement après 1914** : bêtes de somme, accès au marché, diversification.
+- **Accès facilité à la propriété** avec le **crédit agricole** (1896).
+- **Métayers** : loyer en nature, présents en **Bourbonnais**, **Champagne**.
+- **Fermiers** : loyer en argent, exploitations moyennes/grandes (**Bassin parisien**, **Soissonnais**).
+- **Céréaliers et betteraviers** : influents, intégrés à l’**économie capitaliste**, favorisés par l’État.
+#### <u>Ouvriers agricoles extrêmement nombreux fin XIXe</u>
+- **Ouvriers agricoles nombreux** fin XIXe, malgré **exode rural** et **mécanisation**.
+- **30 à 40 %** de la population agricole active en **Europe** vers 1900.
+- **France différente** : moins de **salariés agricoles** que dans le reste de l’Europe.
+- **Salaires très bas**, bien inférieurs à ceux de l’**industrie**.
+- **Hébergement précaire** : domestiques de ferme **nourris/logés**, mais dans des conditions souvent **indignes**.
+- **Législation tardive** : loi de **1928** impose une chambre séparée des animaux !
+- **Travail genré** :
+	- **Femmes** : cueillette des fruits, fleurs, légumes.
+	- **Hommes** : semis, binage, fauchage, soin aux animaux.
+	- **Viticulture** : hommes = plantation, taille, vinification ; femmes = vendanges.
+- **Déprolétarisation des campagnes** en France :
+	- **Départs massifs** vers les villes.
+	- **Accession à la micro-propriété**.
+- **Manque de main-d’œuvre** :
+	- Hausse des **salaires**.
+	- **Recours aux étrangers** (Italiens, Espagnols).
+#### <u>Sociétés rurales européennes : organisation communautaire spécifique</u>
+- **Organisation communautaire** autour du **village**, du **bourg** et de la **paroisse**.
+- **France** : villages de **1 000 habitants** en moyenne, limite fixée à **3 000 habitants**.
+- **Bâtiments centraux** : **mairie**, **église**.
+- **Religion importante** en campagne, contrairement aux villes **déchristianisées**.
+- **Prêtre et maire** = figures centrales du village.
+- **Identité rurale** liée au **terroir**, aux **marchés** et aux **foires** des bourgs voisins.
+- **Réseaux de solidarité** : famille, mariage, travail, traditions.
+- **Communauté villageoise** : à la fois **protectrice** et **contraignante**.
+- **Tensions et conflits** autour de **l’argent**, de la **terre**, du **pouvoir**.
+- **Juges de paix, maires, notaires, vétérinaires** = **médiateurs** locaux.
+- **Gendarmerie** mobilisée pour **maintenir l’ordre** et lutter contre la **délinquance** rurale.
+#### <u>La mobilité, une clé essentielle pour mesurer les transformations de la société rurale et surtout paysanne</u>
+- **Mobilité rurale** = clé des transformations sociales.
+- **France (1860-1892)** : **1 million** de ruraux quittent la campagne pour la ville.
+- **Exode rural définitif**, reconversion dans l’**industrie** et le **tertiaire**.
+- **Hausse des salaires** des ouvriers agricoles restants (manque de main-d’œuvre).
+- **Migrations saisonnières** dans les **régions frontalières** pour le travail agricole.
+- **Sud-Est & Sud-Ouest** : main-d’œuvre **italienne** et **espagnole** pour les vendanges et récoltes.
+- **Agences d’émigration** créées pour compenser le manque de travailleurs.
+- **Société polonaise d’émigration (1908)** et **Comité d’émigration de Galicie (1901)** placent des ouvriers agricoles.
+- **1910** : Création du **Syndicat français de la main-d’œuvre agricole** (contrats avec la Pologne).
+- **Salaire** : **500 francs/an** pour un domestique, **360 francs** pour une fille de ferme, **40 francs/mois** pour un saisonnier.
+- **Frais de voyage** payés par l’employeur.
+- **1923** : l’**Office central de la main-d’œuvre agricole** devient un véritable syndicat.
+- **50 bureaux français** collaborent avec l’**Office polonais** pour l’embauche des migrants.
+
+### 2. Politisation et intégration à l'Etat-Nation
+#### <u>Politisation de ces sociétés rurales est un fait majeur du XIXe</u>
+
+
 
 # III - L'économie française avant 1914

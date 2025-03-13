@@ -3,9 +3,11 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 ![[Capture d’écran 2025-01-06 à 13.36.03.png]]
 # Introduction
 -  **Montée en puissance de l'Allemagne** : Depuis plusieurs années, l’Allemagne inquiète par son expansion politique, économique, militaire et démographique, avec des ambitions territoriales théorisées autour du concept d’« espace vital » (Lebensraum).
-- **Préparatifs militaires avant 1914** : La France, face à la modernisation de l’armée allemande, adopte la loi des trois ans pour renforcer sa conscription, élargissant celle-ci aux colonies, tandis que les alliances de la Triple-Entente et de la Triplice se consolident.
+- **Préparatifs militaires avant 1914** : La France, face à la modernisation de l’armée allemande, adopte la **loi des trois ans** pour renforcer sa conscription, élargissant celle-ci aux colonies, tandis que les alliances de la Triple-Entente et de la Triplice se consolident.
 - **Conflits précurseurs** : Les guerres balkaniques (1912-1913) et les tensions en Europe orientale ont contribué à une atmosphère belligène avant l’été 1914, bien que le public n’en ait pas pleinement conscience.
-- **Impérialisme et rivalités économiques** : Les causes profondes de la guerre incluent les conflits coloniaux et les luttes pour les ressources, selon des analyses marxistes (Lénine) et non-marxistes (William Du Bois : *la lutte pour le contrôle des ressources dans les mondes colonisés, en Afrique en particulier, est la véritable source de la guerre entre puissances européennes*).
+- **Impérialisme et rivalités économiques** : Les causes profondes de la guerre incluent les conflits coloniaux et les luttes pour les ressources, selon des analyses marxistes (Lénine) et non-marxistes 
+> [!quote] ***William Du Bois*** : 
+> ***« La lutte pour le contrôle des ressources dans les mondes colonisés, en Afrique en particulier, est la véritable source de la guerre entre puissances européennes »***
 - **Déclenchement et mondialisation** : La guerre, commencée à l’été 1914, dépasse rapidement les prévisions de courte durée et devient un conflit mondial marqué par une violence sans précédent.
 - **Conséquences durables** : La Grande Guerre est qualifiée de « catastrophe inaugurale du XXe siècle », ouvrant la voie au fascisme, à la brutalisation des sociétés et à la révolution bolchévique en Russie.
 

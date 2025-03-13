@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a140d25728aefdac",
+        "id": "a978d7ff0508f352",
         "type": "tabs",
         "children": [
           {
-            "id": "34c603c58c88c03e",
+            "id": "88e1d3c545ccfdfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P.CH2 - Art et Réalité.md",
+                "file": "S.CH7 - Culture ou culture(s) ; Petit détour par l'éthnologie et l'anthropologie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "P.CH2 - Art et Réalité"
+              "title": "S.CH7 - Culture ou culture(s) ; Petit détour par l'éthnologie et l'anthropologie"
             }
           },
           {
-            "id": "a7042f6f10ae64e8",
+            "id": "3705330c798023db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiche de révision CB Philo.md",
+                "file": "citations socio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,22 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fiche de révision CB Philo"
+              "title": "citations socio"
             }
-          }
-        ]
-      },
-      {
-        "id": "df6370bb1392c702",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ab88b40f6a0cbf58",
+            "id": "7a04740862402288",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philo citations et ref CB2.md",
+                "file": "Histoire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,10 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "philo citations et ref CB2"
+              "title": "Histoire"
+            }
+          },
+          {
+            "id": "640367f77bca8e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "H.CH12 - La France des années 1930 ; une course vers l'ambîme ?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H.CH12 - La France des années 1930 ; une course vers l'ambîme ?"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.50499725341797
+    "width": 208.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "842d4dfae35b31a9",
@@ -204,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fiche Lettres CB2.md",
+                "file": "H.CH12 - La France des années 1930 ; une course vers l'ambîme ?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de fiche Lettres CB2"
+              "title": "Plan de H.CH12 - La France des années 1930 ; une course vers l'ambîme ?"
             }
           },
           {
@@ -244,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,44 +282,47 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "34c603c58c88c03e",
+  "active": "640367f77bca8e0c",
   "lastOpenFiles": [
-    "fiches/P.CH2 - Art et Réalité.pdf",
-    "P.CH2 - Art et Réalité.md",
-    "Fiche de révision CB Philo.md",
-    "fiches",
-    "philo citations et ref CB2.md",
-    "Philosophie.md",
-    "fiche socio CB2.md",
-    "fiche Lettres CB2.md",
-    "citations-lettres.excalidraw.md",
-    "sur l'inconfort.md",
-    "Angoisse.md",
-    "révisions DSnº2 Lettres.md",
-    "Lettres.md",
-    "Pourquoi j'écris - G. Orwell.md",
-    "Livres à lire, hks.md",
-    "Corneille.md",
-    "Conférence Philippe Le Guillou.md",
-    "dissert citation F Clavel, \"abime que sont les contes\".md",
-    "Alexandre.md",
-    "écritures.md",
-    "écriture de jet.md",
-    "paragraphes.md",
-    "20 novembre 2024.md",
-    "sur le travail.md",
+    "Histoire.md",
+    "citations socio.md",
+    "S.CH7 - Culture ou culture(s) ; Petit détour par l'éthnologie et l'anthropologie.md",
+    "Square Blaise Cendrars.md",
+    "Sociologie.md",
+    "S.CH8 - Rationalité.md",
+    "H.CH12 - La France des années 1930 ; une course vers l'ambîme ?.md",
     "poèmes.md",
-    "Étincelle dans un brouillard.md",
-    "Corps indolent.md",
+    "E4 vocabulaire.md",
+    "Indolence palpable.md",
+    "Angoisse.md",
+    "media/HKS Chapitre 12 La France 1930.pdf",
+    "Edouard Daladier (1884-1970).md",
+    "H.CH11 - La France des années 1920 ; deuil insurmontable de la guerre ou « années folles » ?.md",
+    "media/HKS Chapitre 11 La France 1920.pdf",
+    "6 février 1934.md",
+    "H.CH9 - La Grande Guerre (1914-1919) 1 sur 2 ; Découverte de la guerre industrielle de masse (1914-1916).md",
     "media/HKS Chapitre 8 Société Française 1900.pdf",
+    "H.CH8 - La France de la Belle Epoque (3 sur 3) ; la société française de « 1900 » (années 1890-1914).md",
+    "media/IMG_4285.JPG",
+    "E6 vocab & méthode.md",
+    "E6 - National Identities.md",
+    "E6 Anglais.md",
+    "Eduardi Viveiros de Castro.md",
+    "Espagnol.md",
+    "media/Pasted image 20250305143057.png",
+    "Excalidraw/Drawing 2025-03-05 14.12.37.excalidraw.md",
+    "te.md",
+    "Philosophie.md",
+    "P.CH3 - Politique et Violence.md",
+    "media/Politiques I-IX Aristote.pdf",
+    "Anciens et Modernes en Philosophie.md",
+    "media/République de Platon 1.pdf",
+    "media/République de Platon.pdf",
+    "fiches/P.CH2 - Art et Réalité.pdf",
+    "fiches",
     "media/HKS Chapitre 9 guerre de 14.pdf",
     "media/HKS Chapitre 7 France 1898-1913.pdf",
     "media/afrique début XXe.jpg",
-    "media/HKS Chapitre 6 république radicale 1900-1914.pdf",
-    "media/HKS Chapitre 5 France 1889-1899.pdf",
-    "media/HKS Chapitre 3 décennie 1870.pdf",
-    "media/HKS Chapitre 2 1870-1871.pdf",
-    "media/HKS Chapitre 11 La France 1920.pdf",
     "media/Capture d’écran 2025-02-02 à 17.11.51.png",
     "media/boudariesXVIII.jpg",
     "media/Capture d’écran 2025-01-22 à 18.19.52.png",
@@ -308,8 +330,6 @@
     "media/Capture d’écran 2025-01-18 à 13.21.44.png",
     "media/text one social hierarchy.JPG",
     "media/IMG_4611.jpg",
-    "media/Capture d’écran 2025-01-13 à 14.42.03.png",
-    "media/Capture d’écran 2025-01-13 à 14.46.08.png",
     "Sans titre.canvas"
   ]
 }

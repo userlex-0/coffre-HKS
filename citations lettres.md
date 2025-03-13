@@ -30,8 +30,23 @@ liens: [[HKS]], [[Lettres]], [[Carnets de citations]]
 
 ## Louise Victorine Ackermann, Pénsées d'une solitaire (1882)
 - *« Pour écrire en prose il faut absolument avoir quelque chose à dire ; pour écrire en vers ce n'est pas indispensable.»*
-- 
 
+## Charles Trénet (1966)
+- *« La poésie ce sont des rêves de bonne qualités »*
+- *« La poésie est un fluide qui ne s'échange qu'entre poète... mais tout le monde est poète. »*
 
-- *« Honra y provecho no caben en un saco »* \[Honneur et profit n'entrent pas dans le même sac], (Proverbe espagnol)
+## Léopold Sédar Senghor (1983)
+- *« Les peuls définissent la poésie : des paroles plaisantes  au cœur et à l'oreille. »* 
+- (en parlant de la poésie :) « Le language le plus expressif qui passe par les sens pour aller jusqu'à l'âme »  
 
+## Nathalie Sarraute (1995)
+- *« Le propre de la poésie s'attache à rendre une sensation »*
+
+## Hervé Bazin (1972)
+- *« Le roman vous impose un compte-rendu, vous enferme dans le réel et dans l'extérieur. Alors que la poésie c'est une découverte constante. »*
+## Jean Cocteau
+- « C'est le mariage du conscient et de l'inconscient, de ces noces terribles naissent des monstres qui sont les œuvres, monstres quelques fois exquis. »
+
+## Charles Baudelaire
+> [!quote]
+> ***« Parce que la forme est contraignante, l'idée jaillit plus intense »***

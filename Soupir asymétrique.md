@@ -1,4 +1,4 @@
-liens: [[écritures]], [[poèmes]]
+[[poèmes]]
 
 
 ## Soupir asymétrique

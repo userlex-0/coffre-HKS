@@ -7,7 +7,8 @@ liens: [[écritures]], [[fragments]]
 [[Soupir asymétrique]]
 [[Esprit encombré]]
 [["Parce que" est mort]]
-[[Angoisse]]
-
+[[Indolence palpable]]
 ##### **poèmes d'expériences**
+[[Esprit encombré]]
+[[Angoisse]]
 [[Radinghem, 19.02.25]]

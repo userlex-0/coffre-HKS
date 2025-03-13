@@ -14,3 +14,7 @@ liens: [[HKS]], [[E6 Anglais]]
 - western countries : pays occidentaux
 - address (smth) : se pencher sur
 	- *The government should address georgaphical inequality*
+
+- **pluralité collective :** parlant d'une *personne* (qu'on ne connait pas) on passe au pluriel
+	- ex : **If a person enters a room and notice there are no chairs left, *THEY* will go on and grab another.**
+	

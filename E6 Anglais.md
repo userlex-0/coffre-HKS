@@ -2,6 +2,7 @@ liens: [[HKS]], [[E6 vocab & méthode]]
 #hub
 ### [[E6 - Empire and Colonialsm]]
 ### [[E6 - Social Hierarchy in the UK and the US]]
+### [[E6 - National Identities]]
 
 # Format copie sur Word
 - interligne de 2
@@ -28,7 +29,3 @@ liens: [[HKS]], [[E6 vocab & méthode]]
 ## Développement
 
 - dans chaque sous-partie utiliser en moyenne 3 documents
-
-
-
----
