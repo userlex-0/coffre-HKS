@@ -16,9 +16,11 @@ liens: [[HKS]], [[Histoire]]
 **I/ Le début de la décennie, marqué par l’impact de la crise économique mondiale, compensée par le spectacle de l’Empire colonial (encensé à l’Exposition internationale de Vincennes de 1931)**
 **II/ Le temps des querelles politiques entre menaces « fascistes » ou « communistes » entre 1934 et 1937**
 **III/ Le temps de l’impuissance et des immobilismes face à la marche à la guerre, dans laquelle la France entre à reculons.**
+
 # I - La France (impériale) dans la crise économique mondiale
 ## A) La crise et le déni (provisoire)
 ### 1. Le surgissement de la crise : ses impacts et les réactions
+
 #### <u>Une entrée tardive dans la crise économique mondiale</u>
 - **Krach boursier de Wall Street** : octobre 1929, propagation rapide à l’économie réelle
 - **États-Unis** : chômage important et faillites industrielles et bancaires dès début 1930
@@ -28,6 +30,7 @@ liens: [[HKS]], [[Histoire]]
 - **Production industrielle** : excellente en 1930, 100 000 chômeurs fin 1931 (contre 5 millions en Allemagne et 2,7 millions au Royaume-Uni)
 - **Crise progressive** : nombre de chômeurs grimpe vers 1933-1934, 900 000 chômeurs en 1936 (chiffres officiels, statistiques sociales moins efficaces)
 - **Intervention de l’État** : sauvetage d’entreprises, création de sociétés d’économie mixte (Air France, Compagnie générale transatlantique, SNCF en 1937)
+
 #### <u>Crise financière... et politique ?</u>
 - **Faillites bancaires** : 670 faillites, disparition de 15 millions de francs du secteur bancaire
 - **Panique bancaire** : retraits massifs de liquidité par les épargnants
@@ -35,6 +38,7 @@ liens: [[HKS]], [[Histoire]]
 - **Scandale politique** : Garde des sceaux Raoul Péret impliqué, chute du gouvernement Tardieu (novembre 1930)
 - **Agitation politique** : critique antiparlementaire de l’Action française, Parlement comparé au Titanic
 - **Faillites en chaîne** : recompositions dans le secteur bancaire, renforcement de certaines banques comme le CIC
+
 #### <u>Renvoyer les travailleurs immigrés</u>
 - **Mesures contre les étrangers** : loi de 1932 limitant la proportion de travailleurs étrangers
 - **Travailleurs étrangers** : variable d’ajustement, licenciements expéditifs, rapatriements massifs
@@ -44,6 +48,7 @@ liens: [[HKS]], [[Histoire]]
 - **Manifestations** : contre les « métèques », organisées par l’Action Française et ligues nationalistes
 - **Étudiants en médecine** : grève en février 1935, réclamation d’interdiction pour les étrangers d’exercer la médecine
 - **Femmes** : 330 000 licenciements entre 1931 et 1936, redeviennent « mères au foyer »
+
 #### <u>Une crise plus longue</u>
 - **Moindre intensité** : mais durée prolongée, reprise non visible vers 1935-1936
 - **Chômeurs** : élément clé du paysage urbain, pris en charge par les municipalités et charité privée ou publique
@@ -414,7 +419,7 @@ liens: [[HKS]], [[Histoire]]
 - **Socialisme humaniste** : L’esprit de l'été 1936 est marqué par un socialisme humaniste, visant à améliorer la vie des travailleurs et leur offrir une meilleure qualité de vie.
 - **Générosité et égalité** : L'accent est mis sur la générosité et l’égalité dans l’organisation sociale et économique.
 
-### 2. Blocages, oppositions et faillite rapide du Front populaire
+### 2. Blocages, oppositions et faillite rapide du Front populaire 
 #### <u>« Mur d'argent » et fuite du Capital</u>
 - **Euphorie éphémère** : L’enthousiasme du Front Populaire ne dure qu’un été en raison de l'absence de moyens et de certaines réformes qui échouent, comme celle sur les ententes industrielles.
 - **Fuite des capitaux** : L'absence de contrôle sur les changes entraîne une fuite des capitaux à l'étranger, menaçant la stabilité financière de la France.

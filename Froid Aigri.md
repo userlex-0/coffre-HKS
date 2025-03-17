@@ -1,6 +1,5 @@
 [[poèmes]]
 
-
 La pluie, les gouttes, le froid me pincent.
 Le vent souffle fort en spirales.
 Arbre qui danse, qui pleure, qui chante,

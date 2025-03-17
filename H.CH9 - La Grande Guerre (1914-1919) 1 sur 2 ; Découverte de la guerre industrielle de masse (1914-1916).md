@@ -2,7 +2,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 
 ![[Capture d’écran 2025-01-06 à 13.36.03.png]]
 # Introduction
--  **Montée en puissance de l'Allemagne** : Depuis plusieurs années, l’Allemagne inquiète par son expansion politique, économique, militaire et démographique, avec des ambitions territoriales théorisées autour du concept d’« espace vital » (Lebensraum).
+- **Montée en puissance de l'Allemagne** : Depuis plusieurs années, l’Allemagne inquiète par son expansion politique, économique, militaire et démographique, avec des ambitions territoriales théorisées autour du concept d’« espace vital » (Lebensraum).
 - **Préparatifs militaires avant 1914** : La France, face à la modernisation de l’armée allemande, adopte la **loi des trois ans** pour renforcer sa conscription, élargissant celle-ci aux colonies, tandis que les alliances de la Triple-Entente et de la Triplice se consolident.
 - **Conflits précurseurs** : Les guerres balkaniques (1912-1913) et les tensions en Europe orientale ont contribué à une atmosphère belligène avant l’été 1914, bien que le public n’en ait pas pleinement conscience.
 - **Impérialisme et rivalités économiques** : Les causes profondes de la guerre incluent les conflits coloniaux et les luttes pour les ressources, selon des analyses marxistes (Lénine) et non-marxistes 
@@ -56,7 +56,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - Départ des jeunes Français début août 1914 avec des **illusions d’une guerre courte.**
 - Le cliché de l’enthousiasme avec la « fleur au fusil » est remis en question par les historiens.
 - Prévalence de la résignation et du devoir défensif, plutôt que de la joie
-	- Comme le soutient **Jean-Jacques Becker** dans *1914, comment les Français sont entrés dans la guerre*(1977)
+	- Comme le soutient **Jean-Jacques Becker** dans <u>1914, Comment les Français sont entrés dans la guerre</u> (1977)
 > [!quote] **Clemenceau** dans son journal *L’Homme libre* (lancé en 1913) 
 > « Dans Paris, pas un cri, pas un mouvement de foule. Rien que la gravité d’une résolution »
 - Confort des Français dans leur attitude patriotique face à l’invasion allemande de la Belgique neutre.
@@ -82,7 +82,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - **Prusse-Orientale envahie et occupée par les armées russes en août 1914**
 	- **Atrocités en Prusse-Orientale** : incendies, exécutions, viols, pillages, déportations
 	- Environ **1500 personnes tuées**, 13 600 civils déportés, 39 villes et 1900 villages détruits
-- Bataille de Tannenberg (26-30 août 1914) repousse les Russes vers la Pologne
+- **Bataille de Tannenberg (26-30 août 1914)** repousse les Russes vers la Pologne
 - Un manifeste publié par 93 intellectuels allemands (octobre 1914) dénonce les atrocités russes
 - Intellectuels et scientifiques allemands cautionnent la guerre et se présentent comme victimes
 
@@ -109,7 +109,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 	- Fischer soutient que l'Allemagne de Guillaume II a provoqué la guerre pour servir ses intérêts économiques
 	- Extraits du mémorandum : **écrasement de la France**, **annexion de la Belgique et du Luxembourg**, union douanière européenne sous domination allemande, **Empire allemand en Afrique**
 - **Pangermanisme** : courant politique pour l'extension territoriale de l'Empire allemand, **notamment vers l'Est**
-- Notion d'**« espace vital »** **théorisée par Friedrich Ratzel** dans les années 1900
+- Notion d'**« Lebensraum | espace vitale »** **théorisée par Friedrich Ratzel** dans les années 1900
 - Fischer affirme que le gouvernement allemand avait des plans de conquête dès 1911
 - Crise diplomatique dans les Balkans en 1914 vue comme une opportunité pour réaliser ces plans
 
@@ -121,7 +121,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - Bethmann-Hollweg a rédigé le document dans un contexte de succès militaire, mais la situation a changé après la bataille de la Marne
 - Certains historiens, comme Georges-Henri Soutou, considèrent le plan de conquête comme un mythe
 - Andreas Hillgruber soutient que l'Allemagne ne souhaitait pas la guerre mais a adopté une stratégie de risque calculé pour renforcer sa position en Europe
-- **L'opinion publique allemande approuvait la guerre pour des raisons de défense du territoire, illustrée par le concept de Burgfrieden**
+- **L'opinion publique allemande approuvait la guerre pour des raisons de défense du territoire, illustrée par le concept de [[Burgfrieden]]**
 
 ### 2. Plutôt une responsabilité collective
 #### <u>La responsabilité du Royaume-Uni ?</u>
@@ -145,26 +145,29 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 
 #### <u>Et si c'était la Russie ?</u>
 - La Russie a mobilisé la première son immense armée, déclenchant des peurs en Europe.
-- Le Tsar Nicolas II, contesté depuis la révolution de 1905, cherche à retrouver de la popularité en déclenchant la guerre.
+- Le ==Tsar Nicolas II==, contesté depuis la révolution de 1905, cherche à retrouver de la popularité en déclenchant la guerre.
 - Le 25 juillet 1914, la Russie déclare son soutien à la Serbie.
 - Le 26 juillet, le Tsar décide la mobilisation générale, soutenu par la Douma.
 - Le 29 juillet, la mobilisation partielle est décrétée, suivie de la mobilisation générale le 30 juillet.
 - La mobilisation russe réveille les angoisses allemandes d'anéantissement face à une armée potentielle de 10 millions d'hommes.
-- La croissance démographique russe (175 millions d'habitants en 1914) inquiète les Allemands, notamment Bethmann-Hollweg.
+- La croissance démographique russe (175 millions d'habitants en 1914) inquiète les Allemands, notamment ==Bethmann-Hollweg==.
 - Cette peur entraîne un réflexe de légitime défense et l'adoption de stratégies de guerre défensive par l'Allemagne en été 1914.
 
 #### <u>Et la France ?</u>
 - La France semble être la moins engagée dans la crise et a le statut de pays victime et envahi par l'Allemagne.
 - Le regain de patriotisme revanchard n'a concerné qu'une partie de la société française.
-- Le Président **Poincaré déclare en 1914 : « nous ne voulons pas la guerre, mais nous ne la craignons pas ».**
-- Du 13 au 23 juillet 1914, Poincaré et René Viviani effectuent un voyage officiel en Russie, malgré les tensions diplomatiques.
+- Le Président 
+> [!quote] Poincaré déclare en 1914 : 
+> ***« Nous ne voulons pas la guerre, mais nous ne la craignons pas ».***
+- Du 13 au 23 juillet 1914, ==Poincaré et René Viviani== effectuent un voyage officiel en Russie, malgré les tensions diplomatiques.
 - Le voyage n'est pas annulé et Poincaré témoigne de la solidité de l'alliance franco-russe.
-- Poincaré encourage le Tsar Nicolas II à la fermeté, ce qui pourrait avoir influencé la décision de mobilisation générale russe.
+- ==Poincaré encourage le Tsar Nicolas II== à la fermeté, ce qui pourrait avoir influencé la décision de mobilisation générale russe.
 
 #### <u>Responsabilité collective.</u>
 - La guerre est le résultat d'une responsabilité collective.
 - La peur de l'attaque de l'autre a conduit à une surenchère et à une guerre par anticipation auto-réalisatrice.
-- L'historien **Jules Isaac, juste après la guerre : « chaque groupe attribuait à l’autre des projets d’agression tout en se jugeant chacun en état de légitime défense »**
+> [!quote] L'historien ==Jules Isaac==, juste après la guerre : 
+> ***« chaque groupe attribuait à l’autre des projets d’agression tout en se jugeant chacun en état de légitime défense »***
 - La croyance en l'inéluctabilité de la guerre a rendu le conflit inévitable.
 - La peur a été le principal moteur de la crise diplomatique menant à la guerre.
 - La guerre a été perçue comme défensive des deux côtés, dans chaque alliance.
@@ -177,19 +180,19 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - La guerre de mouvement d'août à décembre 1914 désavoue les stratégies des états-majors.
 - La "bataille des frontières" fin août 1914, suivant le "plan XVII", est un échec.
 - La puissance de feu industrielle cause des dégâts sans précédent, brisant les stratégies offensives.
-- Le 22 août 1914 est la journée la plus sanglante de l'histoire de France avec 27 000 soldats français tués.
+- Le **22 août 1914** est la journée la plus sanglante de l'histoire de France avec **27 000 soldats français tués.**
 - Cette hécatombe révèle les lacunes de l'état-major français et est occultée dans la mémoire collective.
 - 7 000 soldats français tombent à Rossignol, et environ 10 000 soldats allemands meurent.
 - Les 27 000 morts français en un jour égalent les pertes de toute la guerre d'Algérie et sont sept fois plus que les morts alliés du Jour-J en 1944.
 
 #### <u>Les facteurs explicatifs du charnier</u>
-- La doctrine de l'"offensive à outrance" de l'état-major français, héritée de la tradition napoléonienne, conduit à la catastrophe.
-- Cette doctrine, enseignée par Jean Le Cour Grand Maison, est appliquée par le général Joffre le 14 août 1914.
-- Les progrès technologiques en armement favorisent la défense, rendant les charges à la baïonnette suicidaires.
-- Les officiers français, sommés d'affronter l'ennemi "corps redressé", sont les plus touchés.
+- La doctrine de l'**« offensive à outrance »** de l'état-major français, héritée de la tradition napoléonienne, conduit à la catastrophe.
+- Cette doctrine, enseignée par Jean Le Cour Grand Maison, est appliquée par le général Joffre le 14 août 1914
+- Les progrès technologiques en armement favorisent la défense, rendant les **charges à la baïonnette suicidaires**
+- Les officiers français, sommés d'affronter l'ennemi "corps redressé", sont les plus touchés
 - Le Service de santé des armées, créé seulement en 1915, est inexistant en 1914, augmentant les pertes.
-- L'état-major croit à une guerre rapide et violente, négligeant la préservation des vies.
-- Les uniformes français, avec pantalons rouges et képis, sont visibles et peu protecteurs, contrairement aux uniformes allemands.
+- L'état-major croit à une guerre rapide et violente, négligeant la préservation des vies
+- Les **uniformes français**, avec **pantalons rouges** et képis, sont visibles et peu protecteurs, contrairement aux uniformes allemands.
 - Les armes modernes, comme les fusils Mauser et les mitrailleuses, sont beaucoup plus puissantes et précises.
 - L'artillerie, notamment les canons Krupp allemands et le canon de 75 français, est dix fois plus destructrice qu'au début du siècle précédent.
 
@@ -208,7 +211,6 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 	- 6 septembre 1914 : attaque française sur 180 km de front.
 	- 500 000 morts, sauve l'armée française.
 	- Allemands se replient, von Moltke limogé, remplacé par von Falkenhayn.
-
 - **Course à la mer** :
 	- Von Falkenhayn lance la stratégie de la **"course à la mer"**.
 	- Armées cherchent à se déborder vers l'Ouest.
@@ -231,9 +233,6 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
   - **Conditions de vie déplorables** : boue, rats, parasites, infections, gangrène.
   - Tranchées désagrégées par pilonnages d'artillerie et tirs de mortiers.
   - Paysage lunaire et dévasté, régiments désagrégés, groupes primaires de combattants.
-
-
-
 
 # II - La transformation de la guerre en guerre totale (1915-1917)
 
@@ -396,19 +395,19 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 ### 1. Parenthèse historiographique sur le concept de guerre totale
 #### <u>Origines du terme de guerre totale</u>
 - Conflit mobilisant toutes les ressources et forces d’un État, y compris la **population civile**
-- **Expression utilisée par Joseph Goebbels**, ministre de la propagande du IIIe Reich, le 18 février **1943**
+- **Expression utilisée par ==Joseph Goebbels**==, ministre de la propagande du IIIe Reich, le 18 février **1943**
 - Appel à la « guerre totale » pour remobiliser les Allemands face à l’éternisation de la guerre et aux bombardements
 - Après 1945, la Seconde Guerre mondiale considérée comme la seule véritable « guerre totale »
-- MAIS, nouvelle génération d’historiens (**Stéphane** **Audoin-Rouzeau**, **Annette** **Becker**) redécouvre le caractère « total » de la Grande Guerre dans les années 1990
+- MAIS, nouvelle génération d’historiens (==**Stéphane** **Audoin-Rouzeau**, **Annette** **Becker**==) redécouvre le caractère « total » de la Grande Guerre dans les années 1990
 - Civils également touchés par la Grande Guerre
 - Expression « guerre totale » retrouvée dans un ouvrage de 1937 par Erich Ludendorff, chef d’État-major allemand en 1916-1918 : *« le monde entier assistait à la guerre des peuples »*
 
 #### <u>Aux origines historiques de cette forme de guerre.</u>
-- Jean-Yves Guiomar remonte aux origines de la guerre totale dans *L’invention de la guerre totale* (2004).
+- ==Jean-Yves Guiomar== remonte aux origines de la guerre totale dans *L’invention de la guerre totale* (2004).
 - Premiers éléments annonciateurs lors de la Révolution française et des guerres révolutionnaires.
 	- Lien entre lutte idéologique et guerre nationale, levée en masse de combattants civils (1793)
 	- Révolution française : étape décisive vers la "totalisation" de la guerre et nouvelle définition de l’ennemi.
-- prussien **Carl von Clausewitz** : *« la guerre n’est que la continuation de la politique par d’autres moyens »* dans <u>De la Guerre</u> (début XIXe)
+- prussien ==**Carl von Clausewitz**== : *« la guerre n’est que la continuation de la politique par d’autres moyens »* dans <u>De la Guerre</u> (début XIXe)
 	- il élabore ensuite théorie + classique de la guerre : choc frontal entre armées, guerre non fin en soi.
 - Guerre "absolue" évitée par le politique, agression violente et illimitée dangereuse.
 - Guerre totale fait sauter ces garde-fous.
@@ -420,13 +419,13 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - Propagande omniprésente à l’Arrière, nourrie par les récits des exactions ennemies
 - "Atrocités allemandes" en Belgique en 1914, **mythe des mains coupées des enfants**
 - Mythe démenti en 1919, La belgique affrontait (en la déplaçant vers l'ennemi) la brutalité de sa propore politique coloniale 1903-1908
-- Congo belge : propriété personnelle de Léopold II jusqu’en 1908, scandale des mains coupées.
+- Congo belge : propriété personnelle de ==Léopold II== jusqu’en 1908, scandale des mains coupées.
 - Mythe des mains coupées : fausse nouvelle de la guerre (Marc Bloch).
 - Faits réels : **destruction de la cathédrale de Reims en 1914**, massacres de civils, maisons brûlées.
 - Circulation de photos et dessins sur cartes postales durant le conflit.
 - chant "[[Le Noël des enfants qui n’ont plus de maisons - Debussy]]" **(1915)**
 - Paroles du chant : dénonciation des destructions et des pertes subies par les civils.
-
+ 
 #### <u>Terreur contre les populations civiles en zone occupée</u>
 - **Exactions sur les civil**s dans les territoires occupés du Nord-Est de la France.
 - l'allemand **Général Hartmann (1915)** : terrorisme comme principe militairement nécessaire.
@@ -435,7 +434,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - **"Brassards rouges"** : bataillons de travailleurs civils pour travaux de terrassement et aménagement du front
 	- Réparation des routes bombardées, enterrement des corps près du front.
 	- Déportations de femmes et jeunes filles de Lille en 1916 pour travailler dans les usines d’armement.
-- **Annette Becker** a étudié tout cela dans "Oubliés de la Grande Guerre" (1999)
+- ==**Annette Becker**== a étudié tout cela dans *"Oubliés de la Grande Guerre"* (1999)
 
 #### <u>Destruction des infrastructures civiles</u>
 - Opérations de **destruction systématique des infrastructures civiles**, comme l’**opération Alberich en février 1917**
@@ -447,7 +446,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - Dommages de guerre en France, indemnisation par l’État après-guerre (**[[loi du 17 avril 1919 "Charte des sinistrés"]]**).
 - Début des **bombardements aériens de villes**, avions utilisés pour reconnaissance et combats aériens.
 - Premiers bombardiers à réaction en 1918, bombardements de l’Angleterre et de la Ruhr.
-- **Bombardements de Paris** au printemps 1918 par les Parizer Kanonen, descriptions dans "La recherche du temps perdu" de Proust.
+- **Bombardements de Paris** au printemps 1918 par les Parizer Kanonen, descriptions dans *La recherche du temps perdu* de ==Proust.==
 - Utilisation de ***zeppelins*** (dirigeables) pour bombarder Paris dès 1914, décors répliquant Paris construits pour tromper les dirigeables
 	- lumières de paris éteintes, lumières des décors allumées
 
@@ -535,7 +534,7 @@ liens: [[Histoire]], [[HKS]], [[Première Guerre mondiale]]
 - Activité des prostituées, tentative de ségrégation racio-sexuelle.
 - **Image durable du tirailleur africain** dans le paysage et les imaginaires.
 - **Banania (1915)** : utilisation de la figure du tirailleur sénégalais pour vendre du cacao.
-- Critiques de la marque pour son racisme, appel de Léopold Sédar Senghor en 1948 à déchirer les représentations Banania.
+- Critiques de la marque pour son racisme, appel de ==Léopold Sédar Senghor== en 1948 à déchirer les représentations Banania.
 - Fragilité des Africains face au froid : maladies pulmonaires et pieds gelés, même chez les Bambaras.
 
 #### <u>Résistances au recrutement en Afrique</u>

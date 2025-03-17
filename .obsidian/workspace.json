@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a978d7ff0508f352",
+        "id": "41ea161945a7c43a",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "88e1d3c545ccfdfc",
+            "id": "18e155cfaf3ccb6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S.CH7 - Culture ou culture(s) ; Petit détour par l'éthnologie et l'anthropologie.md",
+                "file": "H.CH9 - La Grande Guerre (1914-1919) 1 sur 2 ; Découverte de la guerre industrielle de masse (1914-1916).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +29,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "S.CH7 - Culture ou culture(s) ; Petit détour par l'éthnologie et l'anthropologie"
-            }
-          },
-          {
-            "id": "3705330c798023db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "citations socio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "citations socio"
-            }
-          },
-          {
-            "id": "7a04740862402288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Histoire.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Histoire"
-            }
-          },
-          {
-            "id": "640367f77bca8e0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "H.CH12 - La France des années 1930 ; une course vers l'ambîme ?.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "H.CH12 - La France des années 1930 ; une course vers l'ambîme ?"
+              "title": "H.CH9 - La Grande Guerre (1914-1919) 1 sur 2 ; Découverte de la guerre industrielle de masse (1914-1916)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H.CH12 - La France des années 1930 ; une course vers l'ambîme ?.md",
+                "file": "H.CH9 - La Grande Guerre (1914-1919) 1 sur 2 ; Découverte de la guerre industrielle de masse (1914-1916).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de H.CH12 - La France des années 1930 ; une course vers l'ambîme ?"
+              "title": "Plan de H.CH9 - La Grande Guerre (1914-1919) 1 sur 2 ; Découverte de la guerre industrielle de masse (1914-1916)"
             }
           },
           {
@@ -282,40 +210,40 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "640367f77bca8e0c",
+  "active": "18e155cfaf3ccb6e",
   "lastOpenFiles": [
+    "Témoignages de la Grande Guerre.md",
+    "H.CH9 - La Grande Guerre (1914-1919) 1 sur 2 ; Découverte de la guerre industrielle de masse (1914-1916).md",
+    "H.CH9.I - Les débuts d’un conflit inédit par son ampleur et sa violence (1914).md",
+    "H.CH10 - La Grande Guerre (1914-1918) 2 sur 2 ; de la mobilisation totale à la victoire finale (1917-1919).md",
+    "H.CH9.II - La transformation de la guerre en guerre totale (1915-1917).md",
+    "Burgfrieden.md",
+    "loi du 17 avril 1919 \"Charte des sinistrés\".md",
+    "media/HKS Chapitre 12 La France 1930.pdf",
+    "poèmes.md",
+    "Angoisse.md",
+    "H.CH12 - La France des années 1930 ; une course vers l'ambîme ?.md",
+    "Indolence palpable.md",
+    "Corps indolent.md",
+    "Froid Aigri.md",
+    "Esprit encombré.md",
+    "\"Parce que\" est mort.md",
+    "Radinghem, 19.02.25.md",
+    "Soupir asymétrique.md",
     "Histoire.md",
-    "citations socio.md",
     "S.CH7 - Culture ou culture(s) ; Petit détour par l'éthnologie et l'anthropologie.md",
+    "citations socio.md",
     "Square Blaise Cendrars.md",
     "Sociologie.md",
     "S.CH8 - Rationalité.md",
-    "H.CH12 - La France des années 1930 ; une course vers l'ambîme ?.md",
-    "poèmes.md",
     "E4 vocabulaire.md",
-    "Indolence palpable.md",
-    "Angoisse.md",
-    "media/HKS Chapitre 12 La France 1930.pdf",
     "Edouard Daladier (1884-1970).md",
     "H.CH11 - La France des années 1920 ; deuil insurmontable de la guerre ou « années folles » ?.md",
     "media/HKS Chapitre 11 La France 1920.pdf",
-    "6 février 1934.md",
-    "H.CH9 - La Grande Guerre (1914-1919) 1 sur 2 ; Découverte de la guerre industrielle de masse (1914-1916).md",
     "media/HKS Chapitre 8 Société Française 1900.pdf",
-    "H.CH8 - La France de la Belle Epoque (3 sur 3) ; la société française de « 1900 » (années 1890-1914).md",
     "media/IMG_4285.JPG",
-    "E6 vocab & méthode.md",
-    "E6 - National Identities.md",
-    "E6 Anglais.md",
-    "Eduardi Viveiros de Castro.md",
-    "Espagnol.md",
     "media/Pasted image 20250305143057.png",
-    "Excalidraw/Drawing 2025-03-05 14.12.37.excalidraw.md",
-    "te.md",
-    "Philosophie.md",
-    "P.CH3 - Politique et Violence.md",
     "media/Politiques I-IX Aristote.pdf",
-    "Anciens et Modernes en Philosophie.md",
     "media/République de Platon 1.pdf",
     "media/République de Platon.pdf",
     "fiches/P.CH2 - Art et Réalité.pdf",

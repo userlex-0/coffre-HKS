@@ -10,5 +10,3 @@ Les yeux humides que mes paupières
 S'entêtent encore à estomper
 
 Le tout avec l'esprit encombré
-
-
