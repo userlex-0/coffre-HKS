@@ -3,7 +3,7 @@ liens: [[perso]], [[paragraphes]], [[Alexandre]]
 Le fait de ne rien faire est devenu douloureux, ajourd'hui j'étais malade, je ne suis pas allé en cours, je me suis dit que j'avais du temps pour ranger mon bureau sur lequel s'empilent feuilles de cours, fiches, brouillons, livres, manuels... 
 
 *8 décembre 2024*
-Même terminer ce paragraphe je n'avais pas le courage
+Même terminer ce paragraphe je n'en avais pas le courage
 
 
 *Une boule dans le ventre
